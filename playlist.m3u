@@ -6516,7 +6516,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177738
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Futurama Tem. 1 al 5 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/fyYBSS4cZYQGLl8BARALtKWINBH.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Futurama Tem. 1 al 5 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177739
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Futurama Tem. 6 al 10 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/bmsKWnZBEYD5GBTgivONPBdcxJO.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Futurama Tem. 6 al 10 (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Futurama Tem. 6 al 13 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/bmsKWnZBEYD5GBTgivONPBdcxJO.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Futurama Tem. 6 al 13 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177740
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (E)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 1 - (E)(1080)
@@ -7062,17 +7062,20 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178772
 #EXTINF:-1 tvg-id="" tvg-name="02/15 Soccer 03:00pm Mallorca vs Real Betis = Diretv (Z)" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS PPV",02/15 Soccer 03:00pm Mallorca vs Real Betis = Diretv (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178773
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Amor a la plancha (e)(SD)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Amor a la plancha (e)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Amor a la plancha (e)(SD)" tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/676eabde73fec95dc8e62e9d/6ad4732670fe6197326c535c1fe1baf5/img.png" group-title="24/7 TELENOVELAS",24/7 Amor a la plancha (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178783
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ángel de la Guarda Mi Dulce Compañía" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Ángel de la Guarda Mi Dulce Compañía
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Angel de la Guarda Mi Dulce Compañia (e)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/6/65/Angel_de_la_guarda.jpg/250px-Angel_de_la_guarda.jpg" group-title="24/7 TELENOVELAS",24/7 Angel de la Guarda Mi Dulce Compañia (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178784
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bermúdez " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Bermúdez
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bermúdez (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/6JtigtSkR6693YrA9lxuFt7rbgr.jpg" group-title="24/7 TELENOVELAS",24/7 Bermúdez (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178785
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bloque de búsqueda " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Bloque de búsqueda
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bloque de búsqueda (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lM8zAmNKXdDQaXtWiTHrnvl6h36.jpg" group-title="24/7 TELENOVELAS",24/7 Bloque de búsqueda (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178786
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chepe Fortuna" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Chepe Fortuna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178787
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
