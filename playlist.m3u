@@ -270,6 +270,12 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9613
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="DEPORTES - Real Madrid TV (i)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - Real Madrid TV (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165482
 
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164158
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Premier League (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164159
+
 #EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 1 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 1 (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165483
 
@@ -278,12 +284,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165484
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165485
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164158
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Premier League (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164159
 
 #EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-CINE Y SERIES",CINE - A&E (L)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9614
@@ -3153,213 +3153,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9932
 #EXTINF:-1 tvg-id="" tvg-name="CHI-TVN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-TVN (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9934
 
-#EXTINF:-1 tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-name="PPV PERU - Eventos (Z)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="PERU",PPV PERU - Eventos (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173682
-
-#EXTINF:-1 tvg-id="LA.TELE.PERU.(La.Tele).pe" tvg-name="PER-TV Peru (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png" group-title="PERU",PER-TV Peru (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74877
-
-#EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-name="PER-Panamericana (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74884
-
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (Z)(720)" tvg-logo="" group-title="PERU",PER-America TV (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74885
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-America (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8433
-
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8434
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8435
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (L)(720)" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png" group-title="PERU",PER-ATV (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8436
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8437
-
-#EXTINF:-1 tvg-id="Canal.ATV.sv" tvg-name="PER-ATV (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (TV)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8438
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/df13ed57843877b21ad969184ab6888f.png" group-title="PERU",PER-ATV (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8439
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (L)(720)" tvg-logo="http://daleplay.club:8080/images/5a021cd8bff20a0d536aa252ab0a9757.png" group-title="PERU",PER-ATV+ (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8440
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/8e1d55cda293949513ca9d81fc1a00d1.png" group-title="PERU",PER-ATV+ (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8441
-
-#EXTINF:-1 tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="PER-Canal N (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/bdb07524ad5eb655c0661ce62ee03726.png" group-title="PERU",PER-Canal N (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8443
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Exitosa (L)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/1a5a73ceeba767d8c4a12facd0299135.png" group-title="PERU",PER-Exitosa (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8445
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-GOL Peru (L)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-GOL Peru (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8446
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8447
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8448
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (L)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8450
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (W)(HD)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (W)(HD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8451
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (TV)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8452
-
-#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-name="PER-Latina (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/873305461e5f4545090df56e8373ad38.png" group-title="PERU",PER-Latina (Z)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8453
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Latina TV (TV)(SD)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina TV (TV)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8454
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8455
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8456
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (L)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8457
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8458
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8459
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (Z)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8460
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8461
-
-#EXTINF:-1 tvg-id="MOVISTAR.EVENTOS.(Movistar.Eventos).pe" tvg-name="PER-Movistar Deportes (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8462
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png" group-title="PERU",PER-Movistar Plus TV (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8464
-
-#EXTINF:-1 tvg-id="Canal.Panamericana.Televisión.sv" tvg-name="PER-Panamericana (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8465
-
-#EXTINF:-1 tvg-id="Canal.Panamericana.Televisión.sv" tvg-name="PER-Panamericana (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8466
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-RPP (SD)(M)" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png" group-title="PERU",PER-RPP (SD)(M)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8469
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-TV Peru (M)" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png" group-title="PERU",PER-TV Peru (M)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8471
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Willas  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willas  (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8472
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Willasx (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/eefbeb9ecb737c3bec0f9abd281c9330.png" group-title="PERU",PER-Willasx (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8473
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Willax (L)(720)" tvg-logo="http://iptvlatino.one:8080/images/96a6baee16738886cbb36a2d14670d9d.jpg" group-title="PERU",PER-Willax (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8474
-
-#EXTINF:-1 tvg-id="Canal.Willax.TV.sv" tvg-name="PER-Willax (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willax (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8475
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-PPV 1 - e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="URUGUAY",URU-PPV 1 - e)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94286
-
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="URUGUAY",URU PPV 2 - (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94287
-
-#EXTINF:-1 tvg-id="A+V.uy" tvg-name="URU-A+V (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" group-title="URUGUAY",URU-A+V (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8514
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (L)(HQ)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8515
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8516
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8518
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8519
-
-#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8520
-
-#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (L)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8521
-
-#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8522
-
-#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8523
-
-#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8524
-
-#EXTINF:-1 tvg-id="CANAL.4.HD.uy" tvg-name="URU-Canal 4 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8525
-
-#EXTINF:-1 tvg-id="CANAL.4.MONTECARLO..uy" tvg-name="URU-Canal 4 - Montecarlo (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 - Montecarlo (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8526
-
-#EXTINF:-1 tvg-id="CANAL.4.HD.uy" tvg-name="URU-Canal 4 Monte Carlo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",URU-Canal 4 Monte Carlo (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8527
-
-#EXTINF:-1 tvg-id="[MONTTV].Canal.4.uy" tvg-name="URU-Canal 4 Montecarlo (TV)(HQ)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (TV)(HQ)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8528
-
-#EXTINF:-1 tvg-id="MTV..uy" tvg-name="URU-Canal 4 Montecarlo (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8529
-
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU-Directv Sports 1 UY (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8530
-
-#EXTINF:-1 tvg-id="Canal.TN23.sv" tvg-name="URU-TNU (L)(720)" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" group-title="URUGUAY",URU-TNU (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8532
-
-#EXTINF:-1 tvg-id="TV.CIUDAD.uy" tvg-name="URU-TV Ciudad (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png" group-title="URUGUAY",URU-TV Ciudad (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8533
-
-#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8534
-
-#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8535
-
-#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8536
-
-#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8538
-
-#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8539
-
-#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (Z)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8540
-
-#EXTINF:-1 tvg-id="VTV.PLUS..uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8541
-
-#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8542
-
-#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8543
-
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="ECUADOR",PPV 1 Ecuador - (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174447
 
@@ -3623,6 +3416,213 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175965
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Wuan+ (W)(720)" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="ECUADOR-LOCAL",ECU-Wuan+ (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175966
+
+#EXTINF:-1 tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-name="PPV PERU - Eventos (Z)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="PERU",PPV PERU - Eventos (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173682
+
+#EXTINF:-1 tvg-id="LA.TELE.PERU.(La.Tele).pe" tvg-name="PER-TV Peru (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png" group-title="PERU",PER-TV Peru (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74877
+
+#EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-name="PER-Panamericana (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74884
+
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (Z)(720)" tvg-logo="" group-title="PERU",PER-America TV (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/74885
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-America (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8433
+
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8434
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8435
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (L)(720)" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png" group-title="PERU",PER-ATV (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8436
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8437
+
+#EXTINF:-1 tvg-id="Canal.ATV.sv" tvg-name="PER-ATV (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (TV)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8438
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/df13ed57843877b21ad969184ab6888f.png" group-title="PERU",PER-ATV (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8439
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (L)(720)" tvg-logo="http://daleplay.club:8080/images/5a021cd8bff20a0d536aa252ab0a9757.png" group-title="PERU",PER-ATV+ (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8440
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/8e1d55cda293949513ca9d81fc1a00d1.png" group-title="PERU",PER-ATV+ (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8441
+
+#EXTINF:-1 tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="PER-Canal N (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/bdb07524ad5eb655c0661ce62ee03726.png" group-title="PERU",PER-Canal N (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8443
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Exitosa (L)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/1a5a73ceeba767d8c4a12facd0299135.png" group-title="PERU",PER-Exitosa (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8445
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-GOL Peru (L)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-GOL Peru (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8446
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8447
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8448
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (L)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8450
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (W)(HD)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (W)(HD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8451
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (TV)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8452
+
+#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-name="PER-Latina (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/873305461e5f4545090df56e8373ad38.png" group-title="PERU",PER-Latina (Z)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8453
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina TV (TV)(SD)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina TV (TV)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8454
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8455
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8456
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (L)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8457
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8458
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8459
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (Z)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8460
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8461
+
+#EXTINF:-1 tvg-id="MOVISTAR.EVENTOS.(Movistar.Eventos).pe" tvg-name="PER-Movistar Deportes (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8462
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png" group-title="PERU",PER-Movistar Plus TV (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8464
+
+#EXTINF:-1 tvg-id="Canal.Panamericana.Televisión.sv" tvg-name="PER-Panamericana (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8465
+
+#EXTINF:-1 tvg-id="Canal.Panamericana.Televisión.sv" tvg-name="PER-Panamericana (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8466
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-RPP (SD)(M)" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png" group-title="PERU",PER-RPP (SD)(M)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8469
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-TV Peru (M)" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png" group-title="PERU",PER-TV Peru (M)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8471
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willas  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willas  (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8472
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willasx (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/eefbeb9ecb737c3bec0f9abd281c9330.png" group-title="PERU",PER-Willasx (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8473
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willax (L)(720)" tvg-logo="http://iptvlatino.one:8080/images/96a6baee16738886cbb36a2d14670d9d.jpg" group-title="PERU",PER-Willax (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8474
+
+#EXTINF:-1 tvg-id="Canal.Willax.TV.sv" tvg-name="PER-Willax (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willax (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8475
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-PPV 1 - e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="URUGUAY",URU-PPV 1 - e)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94286
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="URUGUAY",URU PPV 2 - (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94287
+
+#EXTINF:-1 tvg-id="A+V.uy" tvg-name="URU-A+V (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" group-title="URUGUAY",URU-A+V (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8514
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (L)(HQ)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8515
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8516
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8518
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8519
+
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8520
+
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (L)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8521
+
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8522
+
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8523
+
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 La Tele (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8524
+
+#EXTINF:-1 tvg-id="CANAL.4.HD.uy" tvg-name="URU-Canal 4 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8525
+
+#EXTINF:-1 tvg-id="CANAL.4.MONTECARLO..uy" tvg-name="URU-Canal 4 - Montecarlo (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 - Montecarlo (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8526
+
+#EXTINF:-1 tvg-id="CANAL.4.HD.uy" tvg-name="URU-Canal 4 Monte Carlo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",URU-Canal 4 Monte Carlo (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8527
+
+#EXTINF:-1 tvg-id="[MONTTV].Canal.4.uy" tvg-name="URU-Canal 4 Montecarlo (TV)(HQ)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (TV)(HQ)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8528
+
+#EXTINF:-1 tvg-id="MTV..uy" tvg-name="URU-Canal 4 Montecarlo (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8529
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU-Directv Sports 1 UY (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8530
+
+#EXTINF:-1 tvg-id="Canal.TN23.sv" tvg-name="URU-TNU (L)(720)" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" group-title="URUGUAY",URU-TNU (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8532
+
+#EXTINF:-1 tvg-id="TV.CIUDAD.uy" tvg-name="URU-TV Ciudad (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png" group-title="URUGUAY",URU-TV Ciudad (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8533
+
+#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8534
+
+#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8535
+
+#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8536
+
+#EXTINF:-1 tvg-id="VTV.HD.uy" tvg-name="URU-VTV (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8538
+
+#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8539
+
+#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8540
+
+#EXTINF:-1 tvg-id="VTV.PLUS..uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8541
+
+#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8542
+
+#EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8543
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN (M)(720)" tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="ARGENTINA",ARG - ESPN (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157558
@@ -6519,6 +6519,915 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178842
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Gabriela, giros del destino " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Gabriela, giros del destino
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178844
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hasta Que La Plata Nos Separe (2022)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hasta Que La Plata Nos Separe (2022)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179002
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hermanitas Calles (2016)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hermanitas Calles (2016)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179003
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hilo De Sangre Azul" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hilo De Sangre Azul
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179004
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hilos De Amor" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hilos De Amor
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179005
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias Clasificadas (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Historias Clasificadas (2012)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179006
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juegos Prohibidos " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Juegos Prohibidos
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179007
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La baby sister (2000)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La baby sister (2000)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179008
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/onWQpt1fmu8pr0M1rsgFjtzMvsR.jpg" group-title="24/7 ANIME",24/7 Super Campeones (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179009
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Caponera (1990)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Caponera (1990)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179010
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga de Pilaf (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/y61KaZuwUD1Egh7jp9KCOb4eG9s.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga de Pilaf (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179011
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La costeña y el cachaco (2003)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La costeña y el cachaco (2003)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179012
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/pFaj9cYCSXuOYX41KCDMA8CYyUC.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179013
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Freezer (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/uFkK1f8Vb8spinlMLTyncBLVXNa.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Freezer (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179014
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La gloria de Lucho (2019)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La gloria de Lucho (2019)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179015
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTse3cj79Ry7a7c_wkW2smBMYixMI_fS-FEvQ&s" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179016
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La mujer en el espejo (1997)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La mujer en el espejo (1997)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179017
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Androides (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/8uysSRI5MpJRQE8SymhnNEmLyt5.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Androides (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179018
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/c821uLZxCxxVWR8LdVHedKSHebt.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179019
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkHmpnrIsc5aObHA1v1EEEs3P6V_xX25JNA6Bn5EWJpzqB7L8jk0YJHPEcjDva0XbrBG6xp2ZiwcycMKfRmXQz56YAT8OCCKn6mwhUbxS2q3mhTKdIFI81E1WvqGQ4NhAASEtYk_OLvE/s1600/Koji+and+Pikkon.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179020
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/u3nEeIkCR7mcpEJXZpUGUTLmF3O.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179021
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)(720)" tvg-logo="https://c4.wallpaperflare.com/wallpaper/890/40/886/dragon-ball-dragon-ball-z-goku-majin-buu-wallpaper-preview.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179022
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Nocturna" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Nocturna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179023
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/pbeKsy68t8Qigic8YW6QKJ5tuLk.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179024
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Baby (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/7DNO3JaqF3BstxAz5XZdlVsgIcL.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Baby (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179025
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)" tvg-logo="https://i.ytimg.com/vi/89OspdrknJ0/maxresdefault.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179026
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pasión Según Nuestros Días" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Pasión Según Nuestros Días
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179027
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)" tvg-logo="https://pbs.twimg.com/media/EWcwGuWXsAEVKT_.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179028
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/3PTiPaysswwacE9uDtJorZ7MCKs.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179029
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/dEP0dFzWDrFZ4S7p8P80UiqzVwT.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179030
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/t4CuEVehDcGIgef8iMp4e262eDd.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179031
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Zamasu (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/bBR7NvJlwBwHCEzTC2aL7bvU9yy.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Zamasu (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179032
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/w6c7J4WzgOThwJBeItcxJ7TZV5P.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179033
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/1OgOREJB0rJknNASxmhIIGoxgXC.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179034
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Daima (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/jHZofim3Matbn0TbJhNp88Ij8YD.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Daima (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179035
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes (e)(720)" tvg-logo="https://i.etsystatic.com/59798469/r/il/08ee8f/6886227146/il_fullxfull.6886227146_a8o3.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Heroes (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179036
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La reina del Flow" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La reina del Flow
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179037
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Saga Negocio de Familia (2004)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Saga Negocio de Familia (2004)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179195
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7mchKkoQOf27UP7cggIPzlmmnEv.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179196
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/gu1zQehSOWJfGFw6lqiDlbeIOXd.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179197
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/43a873b2392862c8026e5a16df67888c926974258c94f1a96c7862a9e6c1380b.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179198
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Seleccion (2014)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Seleccion (2014)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179199
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)" tvg-logo="https://i.ytimg.com/vi/pySM8xXxK7o/maxresdefault.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179200
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/3rvxC5oWFAvUPcQ2hXomaMV5ccK.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179201
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/yioQfdFKzEQAdsjLx9zFzlxmoVt.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179202
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lady, La Vendedora De Rosas (2015)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Lady, La Vendedora De Rosas (2015)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179203
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Reyes" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Los Reyes
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179204
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luzbel está de visita " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Luzbel está de visita
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179205
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pa' Quererte (2020)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pa' Quererte (2020)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179206
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pandillas guerra y paz (1999)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pandillas guerra y paz (1999)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179207
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pecados Capitales (2002)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pecados Capitales (2002)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179216
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro El Escamoso (2001)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pedro El Escamoso (2001)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179217
+
+#EXTINF:-1 tvg-id="" tvg-name="UCL | 11:45 Qarabag vs Newcastle" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png" group-title="EVENTOS PPV",UCL | 11:45 Qarabag vs Newcastle
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179242
+
+#EXTINF:-1 tvg-id="" tvg-name="UCL | 14:00 Bodø/Glimt vs. Inter" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png" group-title="EVENTOS PPV",UCL | 14:00 Bodø/Glimt vs. Inter
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179243
+
+#EXTINF:-1 tvg-id="" tvg-name="UCL | 14:00 Olympiakos vs. Leverkusen" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png" group-title="EVENTOS PPV",UCL | 14:00 Olympiakos vs. Leverkusen
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179244
+
+#EXTINF:-1 tvg-id="" tvg-name="UCL | 14:00 Club Brugge vs Atlético de Madrid" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png" group-title="EVENTOS PPV",UCL | 14:00 Club Brugge vs Atlético de Madrid
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179245
+
+#EXTINF:-1 tvg-id="" tvg-name="Concachampions | 17:00 Defence Force vs Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CONCACAF_Champions_Cup.png/1076px-CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",Concachampions | 17:00 Defence Force vs Philadelphia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179246
+
+#EXTINF:-1 tvg-id="" tvg-name="Concachampions | 19:00 O&M FC vs FC Cincinnati" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CONCACAF_Champions_Cup.png/1076px-CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",Concachampions | 19:00 O&M FC vs FC Cincinnati
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179247
+
+#EXTINF:-1 tvg-id="" tvg-name="Concachampions | 21:00 Cartaginés vs Whitecaps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CONCACAF_Champions_Cup.png/1076px-CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",Concachampions | 21:00 Cartaginés vs Whitecaps
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179248
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | 16:00 O'Higgins (CHI) vs. Bahia (BRA)" tvg-logo="https://logowik.com/content/uploads/images/conmebol-libertadores4840.jpg" group-title="EVENTOS PPV",Libertadores | 16:00 O'Higgins (CHI) vs. Bahia (BRA)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179249
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | 18:30 Nacional Potosí (BOL) vs. Botafogo (BRA)" tvg-logo="https://logowik.com/content/uploads/images/conmebol-libertadores4840.jpg" group-title="EVENTOS PPV",Libertadores | 18:30 Nacional Potosí (BOL) vs. Botafogo (BRA)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179250
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | 18:30 Barcelona (ECU) vs. Argentinos Juniors (ARG)" tvg-logo="https://logowik.com/content/uploads/images/conmebol-libertadores4840.jpg" group-title="EVENTOS PPV",Libertadores | 18:30 Barcelona (ECU) vs. Argentinos Juniors (ARG)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179251
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian Cup | 12:15 Al Nassr (KSA) vs. Arkadag (TKM)" tvg-logo="https://brandlogos.net/wp-content/uploads/2017/02/afc-champions-league-logo.png" group-title="EVENTOS PPV",Asian Cup | 12:15 Al Nassr (KSA) vs. Arkadag (TKM)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179252
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 11:45 Real Madrid vs. Paris FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 11:45 Real Madrid vs. Paris FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179253
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 14:00 Arsenal vs. OH Leuven" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 14:00 Arsenal vs. OH Leuven
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179254
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League | 14:00 Wolves vs. Arsenal" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS PPV",Premier League | 14:00 Wolves vs. Arsenal
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179255
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 13:00 Levante UD vs.Villarreal CF" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 13:00 Levante UD vs.Villarreal CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179256
+
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 13:45 Milan vs. Como" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 13:45 Milan vs. Como
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179257
+
+#EXTINF:-1 tvg-id="" tvg-name="Colombia | 18:30 Junior vs América de Cali" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 18:30 Junior vs América de Cali
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179258
+
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 18:00 Malacateco vs Xelajú" tvg-logo="https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png" group-title="EVENTOS PPV",Guatemala | 18:00 Malacateco vs Xelajú
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179259
+
+#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 15:00 Jalapa vs Rancho Santana FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 15:00 Jalapa vs Rancho Santana FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179260
+
+#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 17:00 Walter Ferretti vs Matagalpa FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 17:00 Walter Ferretti vs Matagalpa FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179261
+
+#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 19:00 Real Estelí vs CS Sébaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 19:00 Real Estelí vs CS Sébaco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179262
+
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Cup | 13.45  Aberdeen vs.Motherwell" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/a/a1/20231126084855%21Scottish_Cup_logo.png" group-title="EVENTOS PPV",Scottish Cup | 13.45  Aberdeen vs.Motherwell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179263
+
+#EXTINF:-1 tvg-id="" tvg-name="12:30 NCAA Baseball James Madison vs.Richmond" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",12:30 NCAA Baseball James Madison vs.Richmond
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179264
+
+#EXTINF:-1 tvg-id="" tvg-name="13:00 NCAA Baseball Manhattan vs.Old Dominion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",13:00 NCAA Baseball Manhattan vs.Old Dominion
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179265
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Baseball South Dakota State vs.Incarnate Word" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Baseball South Dakota State vs.Incarnate Word
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179266
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Baseball North Carolina A&T vs.UNC Greensboro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Baseball North Carolina A&T vs.UNC Greensboro
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179267
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Baseball Northern Illinois vs.East Carolina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Baseball Northern Illinois vs.East Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179268
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Baseball UC Davis vs.San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Baseball UC Davis vs.San Francisco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179269
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Baseball Portland vs.Cal State Northridge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Baseball Portland vs.Cal State Northridge
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179270
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Baseball North Dakota State vs.South Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Baseball North Dakota State vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179271
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Baseball Minnesota vs.Florida Gulf Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Baseball Minnesota vs.Florida Gulf Coast
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179272
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Baseball McNeese vs.Louisiana Tech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Baseball McNeese vs.Louisiana Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179273
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Baseball Kansas vs.Lamar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Baseball Kansas vs.Lamar
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179274
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Baseball Purdue vs.Rice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Baseball Purdue vs.Rice
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179275
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Softball Stetson vs.South Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Softball Stetson vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179276
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Softball Kentucky vs.Murray State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Softball Kentucky vs.Murray State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179277
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Softball New Mexico vs.UTEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Softball New Mexico vs.UTEP
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179278
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Softball Chattanooga vs.Jacksonville State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Softball Chattanooga vs.Jacksonville State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179279
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Softball #18 Clemson vs.Charlotte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Softball #18 Clemson vs.Charlotte
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179280
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Softball West Georgia vs.UAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Softball West Georgia vs.UAB
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179281
+
+#EXTINF:-1 tvg-id="" tvg-name="16:15 NCAA Softball Stetson vs.South Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:15 NCAA Softball Stetson vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179282
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Softball McNeese vs.South Alabama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Softball McNeese vs.South Alabama
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179283
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Softball Georgia Southern vs.Mercer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Softball Georgia Southern vs.Mercer
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179284
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Softball Prairie View A&M vs.Stephen F.Austin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Softball Prairie View A&M vs.Stephen F.Austin
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179285
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Softball #5 Florida vs.North Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Softball #5 Florida vs.North Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179286
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Softball East Texas A&M vs.North Texas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Softball East Texas A&M vs.North Texas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179287
+
+#EXTINF:-1 tvg-id="" tvg-name="10:00 NCAA Womens Basketball App State vs.Coastal Carolina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",10:00 NCAA Womens Basketball App State vs.Coastal Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179288
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Womens Basketball North Alabama vs.Bellarmine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Womens Basketball North Alabama vs.Bellarmine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179289
+
+#EXTINF:-1 tvg-id="" tvg-name="16:30 NCAA Womens Basketball North Carolina Central vs.South Carolina State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:30 NCAA Womens Basketball North Carolina Central vs.South Carolina State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179290
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Mens Basketball Lafayette vs.Holy Cross" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Mens Basketball Lafayette vs.Holy Cross
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179291
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Loyola Maryland vs.Army" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Loyola Maryland vs.Army
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179292
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Mens Basketball VMI vs.Wofford" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Mens Basketball VMI vs.Wofford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179293
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Davidson vs.VCU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Davidson vs.VCU
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179294
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Ohio vs.Akron" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Ohio vs.Akron
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179295
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Winthrop vs.Presbyterian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Winthrop vs.Presbyterian
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179296
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Richmond vs.George Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Richmond vs.George Washington
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179297
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Toledo vs.Massachusetts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Toledo vs.Massachusetts
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179298
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Bucknell vs.American University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Bucknell vs.American University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179299
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Navy vs.Lehigh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Navy vs.Lehigh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179300
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Boston University vs.Colgate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Boston University vs.Colgate
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179301
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Ball State vs.Buffalo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Ball State vs.Buffalo
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179302
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Holy Cross vs.Lafayette" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Holy Cross vs.Lafayette
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179303
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Mens Basketball Cleveland State vs.Youngstown State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Mens Basketball Cleveland State vs.Youngstown State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179304
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Womens Basketball High Point vs.UNC Asheville" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Womens Basketball High Point vs.UNC Asheville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179305
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Womens Basketball Seton Hall vs.Xavier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Womens Basketball Seton Hall vs.Xavier
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179306
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Mens Basketball East Tennessee State vs.Furman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Mens Basketball East Tennessee State vs.Furman
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179307
+
+#EXTINF:-1 tvg-id="" tvg-name="17:30 NCAA Womens Basketball Rhode Island vs.La Salle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:30 NCAA Womens Basketball Rhode Island vs.La Salle
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179308
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Lehigh vs.Navy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Lehigh vs.Navy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179309
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball South Alabama vs.Troy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball South Alabama vs.Troy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179310
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball La Salle vs.Duquesne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball La Salle vs.Duquesne
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179311
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Creighton vs.Butler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Creighton vs.Butler
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179312
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Western Michigan vs.Bowling Green" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Western Michigan vs.Bowling Green
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179313
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Queens University vs.North Alabama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Queens University vs.North Alabama
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179314
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Central Michigan vs.Miami (OH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Central Michigan vs.Miami (OH)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179315
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Western Kentucky vs.Delaware" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Western Kentucky vs.Delaware
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179316
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Saint Josephs vs.St.Bonaventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Saint Josephs vs.St.Bonaventure
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179317
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball George Mason vs.Loyola Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball George Mason vs.Loyola Chicago
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179318
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Duquesne vs.Saint Josephs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Duquesne vs.Saint Josephs
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179319
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Southern Miss vs.Louisiana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Southern Miss vs.Louisiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179320
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Gardner-Webb vs.Longwood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Gardner-Webb vs.Longwood
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179321
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball West Georgia vs.Eastern Kentucky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball West Georgia vs.Eastern Kentucky
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179322
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball #15 Baylor vs.#20 Texas Tech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball #15 Baylor vs.#20 Texas Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179323
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Kansas State vs.UCF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Kansas State vs.UCF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179324
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Georgetown vs.St.Johns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Georgetown vs.St.Johns
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179325
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Purdue Fort Wayne vs.Northern Kentucky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Purdue Fort Wayne vs.Northern Kentucky
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179326
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Northern Illinois vs.Kent State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Northern Illinois vs.Kent State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179327
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Jacksonville vs.Florida Gulf Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Jacksonville vs.Florida Gulf Coast
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179328
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Milwaukee vs.Wright State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Milwaukee vs.Wright State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179329
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball Oakland vs.Purdue Fort Wayne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball Oakland vs.Purdue Fort Wayne
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179330
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Northern Iowa vs.Indiana State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Northern Iowa vs.Indiana State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179331
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Bradley vs.Valparaiso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Bradley vs.Valparaiso
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179332
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball James Madison vs.Coastal Carolina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball James Madison vs.Coastal Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179333
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball South Carolina Upstate vs.Radford" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball South Carolina Upstate vs.Radford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179334
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball West Georgia vs.Lipscomb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball West Georgia vs.Lipscomb
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179335
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Army vs.Loyola Maryland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Army vs.Loyola Maryland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179336
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Basketball DePaul vs.Providence" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Basketball DePaul vs.Providence
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179337
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball UNC Greensboro vs.Western Carolina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball UNC Greensboro vs.Western Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179338
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Wichita State vs.East Carolina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Wichita State vs.East Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179339
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Loyola Chicago vs.Fordham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Loyola Chicago vs.Fordham
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179340
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Richmond vs.Davidson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Richmond vs.Davidson
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179341
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball American University vs.Bucknell" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball American University vs.Bucknell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179342
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball Austin Peay vs.Central Arkansas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball Austin Peay vs.Central Arkansas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179343
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball Arizona State vs.Iowa State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball Arizona State vs.Iowa State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179344
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Lipscomb vs.Bellarmine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Lipscomb vs.Bellarmine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179345
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Middle Tennessee vs.Sam Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Middle Tennessee vs.Sam Houston
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179346
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball #12 TCU vs.Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball #12 TCU vs.Houston
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179347
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Southern Illinois vs.Drake" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Southern Illinois vs.Drake
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179348
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Troy vs.UL Monroe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Troy vs.UL Monroe
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179349
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Jacksonville State vs.Louisiana Tech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Jacksonville State vs.Louisiana Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179350
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Womens Basketball Arkansas State vs.Texas State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Womens Basketball Arkansas State vs.Texas State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179351
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball Florida Atlantic vs.UTSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball Florida Atlantic vs.UTSA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179352
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball Charlotte vs.Tulsa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball Charlotte vs.Tulsa
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179353
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball North Carolina Central vs.South Carolina State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball North Carolina Central vs.South Carolina State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179354
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball Kennesaw State vs.Missouri State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball Kennesaw State vs.Missouri State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179355
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball UIC vs.Evansville" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball UIC vs.Evansville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179356
+
+#EXTINF:-1 tvg-id="" tvg-name="19:30 NCAA Womens Basketball Tarleton State vs.Southern Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:30 NCAA Womens Basketball Tarleton State vs.Southern Utah
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179357
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball UT Arlington vs.Utah Tech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball UT Arlington vs.Utah Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179358
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball Utah Valley vs.California Baptist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball Utah Valley vs.California Baptist
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179359
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Mens Basketball #23 BYU vs.#4 Arizona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Mens Basketball #23 BYU vs.#4 Arizona
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179360
+
+#EXTINF:-1 tvg-id="" tvg-name="20:30 NCAA Mens Basketball Pacific vs.Washington State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:30 NCAA Mens Basketball Pacific vs.Washington State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179361
+
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NCAA Mens Basketball Pepperdine vs.Portland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",21:00 NCAA Mens Basketball Pepperdine vs.Portland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179362
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Mens Volleyball #19 Lincoln Memorial vs.#17  Cal State Northridge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Mens Volleyball #19 Lincoln Memorial vs.#17  Cal State Northridge
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179363
+
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NCAA Mens Volleyball #6 Pepperdine vs.#15 UC Santa Barbara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",21:00 NCAA Mens Volleyball #6 Pepperdine vs.#15 UC Santa Barbara
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179364
+
+#EXTINF:-1 tvg-id="" tvg-name="13:00 NCAA Womens Lacrosse Lafayette vs.Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",13:00 NCAA Womens Lacrosse Lafayette vs.Columbia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179365
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Womens Lacrosse #11 Navy vs.Delaware" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Womens Lacrosse #11 Navy vs.Delaware
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179366
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | China vs Chequia (M Round-Robin) - Curling | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | China vs Chequia (M Round-Robin) - Curling | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179367
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Mens Lacrosse Fairfield vs.Sacred Heart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Mens Lacrosse Fairfield vs.Sacred Heart
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179368
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Estados Unidos vs Gran Bretana (M Round-Robin) - Curling | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Estados Unidos vs Gran Bretana (M Round-Robin) - Curling | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179369
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Womens Lacrosse Duquesne vs.Robert Morris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Womens Lacrosse Duquesne vs.Robert Morris
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179370
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Gold Zone: Day 12 (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Gold Zone: Day 12 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179371
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Womens Lacrosse Campbell vs.Winthrop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Womens Lacrosse Campbell vs.Winthrop
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179372
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Italia vs Canada (M Round-Robin) - Curling | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Italia vs Canada (M Round-Robin) - Curling | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179373
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Womens Lacrosse Coastal Carolina vs.Charlotte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Womens Lacrosse Coastal Carolina vs.Charlotte
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179374
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Noruega vs Suiza (M Round-Robin) - Curling | ESP" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:00 CDMX | JJOO Milan-Cortina 2026 | Noruega vs Suiza (M Round-Robin) - Curling | ESP
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179375
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Womens Lacrosse UMBC vs.La Salle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Womens Lacrosse UMBC vs.La Salle
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179376
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | CHN vs CZE (M Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | CHN vs CZE (M Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179377
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Womens Lacrosse Virginia vs.Liberty" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Womens Lacrosse Virginia vs.Liberty
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179378
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | ITA vs CAN (M Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | ITA vs CAN (M Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179379
+
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Lacrosse #25 Harvard vs.Bryant" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Lacrosse #25 Harvard vs.Bryant
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179380
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | NOR vs SUI (M Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | NOR vs SUI (M Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179381
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Lacrosse #2 Maryland vs.Georgetown" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Lacrosse #2 Maryland vs.Georgetown
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179382
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | USA vs GBR (M Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:05 CDMX | JJOO Milan-Cortina 2026 | USA vs GBR (M Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179383
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | Athletes Unlimited 10:30  Rhythm vs.Glow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Athletes_unlimited_logo.png" group-title="EVENTOS PPV",Basket | Athletes Unlimited 10:30  Rhythm vs.Glow
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179384
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:30 CDMX | JJOO Milan-Cortina 2026 | Women's SB Slopestyle: Final (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:30 CDMX | JJOO Milan-Cortina 2026 | Women's SB Slopestyle: Final (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179385
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | Athletes Unlimited 19:00  Gold Rush vs.Eclipse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Athletes_unlimited_logo.png" group-title="EVENTOS PPV",Basket | Athletes Unlimited 19:00  Gold Rush vs.Eclipse
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179386
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:35 CDMX | JJOO Milan-Cortina 2026 | Biatlon - Relevos 4x6 km Femenino | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 07:35 CDMX | JJOO Milan-Cortina 2026 | Biatlon - Relevos 4x6 km Femenino | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179387
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | SLB 13:00 Manchester Basketball vs. Newcastle Eagles" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12685.png" group-title="EVENTOS PPV",Basket | SLB 13:00 Manchester Basketball vs. Newcastle Eagles
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179388
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 07:45 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 07:45 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179389
+
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 12:00 Delray Beach Open (Segunda Ronda)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 12:00 Delray Beach Open (Segunda Ronda)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179390
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 09:30 CDMX | JJOO Milan-Cortina 2026 | Juegos Olimpicos de Invierno Milan-Cortina 2026 | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 09:30 CDMX | JJOO Milan-Cortina 2026 | Juegos Olimpicos de Invierno Milan-Cortina 2026 | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179391
+
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 13:30 Rio Open presented by Claro (Segunda Ronda)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 13:30 Rio Open presented by Claro (Segunda Ronda)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179392
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 09:45 CDMX | JJOO Milan-Cortina 2026 | CAN vs CZE (Men's Quarterfinal) (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 09:45 CDMX | JJOO Milan-Cortina 2026 | CAN vs CZE (Men's Quarterfinal) (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179393
+
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 13:30 Rio Open presented by Claro / Quadra 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 13:30 Rio Open presented by Claro / Quadra 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179394
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 11:00 CDMX | JJOO Milan-Cortina 2026 | On NBC: Aerials and more (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 11:00 CDMX | JJOO Milan-Cortina 2026 | On NBC: Aerials and more (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179395
+
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 21:00 Honda LPGA Thailand" tvg-logo="https://www.hondalpgathailand.com/HLPGA_Share_Image_1200x600.png" group-title="EVENTOS PPV",Golf | 21:00 Honda LPGA Thailand
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179396
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 11:10 CDMX | JJOO Milan-Cortina 2026 | FIN vs SUI (Men's Quarterfinals) (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="EVENTOS PPV",18/02 11:10 CDMX | JJOO Milan-Cortina 2026 | FIN vs SUI (Men's Quarterfinals) (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179397
+
+#EXTINF:-1 tvg-id="" tvg-name="F1 | 01:00 GP Bahrain Pre-Season Testing Day 1, Session 1" tvg-logo="https://www.shutterstock.com/image-vector/bahrain-gp-flag-race-car-600nw-2236356567.jpg" group-title="EVENTOS PPV",F1 | 01:00 GP Bahrain Pre-Season Testing Day 1, Session 1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179398
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Canada vs Italia | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Canada vs Italia | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179399
+
+#EXTINF:-1 tvg-id="" tvg-name="F1 | 06:00 GP Bahrain Pre-Season Testing Day 1, Session 2" tvg-logo="https://www.shutterstock.com/image-vector/bahrain-gp-flag-race-car-600nw-2236356567.jpg" group-title="EVENTOS PPV",F1 | 06:00 GP Bahrain Pre-Season Testing Day 1, Session 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179400
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - China vs Suecia | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="EVENTOS PPV",18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - China vs Suecia | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179401
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 05:10 Hockey Slovakia vs Alemania" tvg-logo="" group-title="Juegos Olimpicos 2026",JO Invierno | 05:10 Hockey Slovakia vs Alemania
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179402
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Gran Bretana vs Japon | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Gran Bretana vs Japon | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179403
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 09:40 Hockey Canada vs Rep Checa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 09:40 Hockey Canada vs Rep Checa
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179404
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Suiza vs Dinamarca | ESP (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 12:00 CDMX | JJOO Milan-Cortina 2026 | Curling Femenino - Suiza vs Dinamarca | ESP (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179405
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | Hockey 11:10 Finlandia vs Suiza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | Hockey 11:10 Finlandia vs Suiza
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179406
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | CAN vs ITA (W Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | CAN vs ITA (W Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179407
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invienro | Hockey 14.10 USA vs Suecia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invienro | Hockey 14.10 USA vs Suecia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179408
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | CHN vs SWE (W Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | CHN vs SWE (W Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179409
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invienro | 06:30 Women's Slalom Run 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invienro | 06:30 Women's Slalom Run 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179410
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | GBR vs JPN (W Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="Juegos Olimpicos 2026",18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | GBR vs JPN (W Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179411
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 12:05 Curling (F) l Suiza vs Dinamarca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 12:05 Curling (F) l Suiza vs Dinamarca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179412
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | SUI vs DEN (W Round-Robin) - Curling (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 12:05 CDMX | JJOO Milan-Cortina 2026 | SUI vs DEN (W Round-Robin) - Curling (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179413
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 12:05 Curling (F) l Gran Bretaña vs Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 12:05 Curling (F) l Gran Bretaña vs Japón
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179414
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 13:10 CDMX | JJOO Milan-Cortina 2026 | Patinaje velocidad pista corta - 500m Masculino - 3000m Femenino | ES (Z)P" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 13:10 CDMX | JJOO Milan-Cortina 2026 | Patinaje velocidad pista corta - 500m Masculino - 3000m Femenino | ES (Z)P
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179415
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 12:05 Curling (F) l China vs Suecia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 12:05 Curling (F) l China vs Suecia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179416
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 13:15 CDMX | JJOO Milan-Cortina 2026 | M 500m and W Relay Finals (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 13:15 CDMX | JJOO Milan-Cortina 2026 | M 500m and W Relay Finals (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179417
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 12:05 Curling (F) l Canadá vs Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 12:05 Curling (F) l Canadá vs Italia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179418
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 14:10 CDMX | JJOO Milan-Cortina 2026 | NBC: USA vs SWE (M Quarterfinals) - Ice Hockey (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="Juegos Olimpicos 2026",18/02 14:10 CDMX | JJOO Milan-Cortina 2026 | NBC: USA vs SWE (M Quarterfinals) - Ice Hockey (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179419
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 06:00 Women's Aerials: Final" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 06:00 Women's Aerials: Final
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179420
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 16:00 CDMX | JJOO Milan-Cortina 2026 | Best of Curling (Feb 18) (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="Juegos Olimpicos 2026",18/02 16:00 CDMX | JJOO Milan-Cortina 2026 | Best of Curling (Feb 18) (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179421
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 07:30 Women's SB Slopestyle: Final" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 07:30 Women's SB Slopestyle: Final
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179422
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 16:30 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)" tvg-logo="http://onerestream.us:80/images/Ge8cJOYQI3sFy_zVH3ePYWQEghhFXWDHp53t3IcW3RBdng5XUwXMZ1nf2DGlR77ENi8Smsrpo4Xe3Zz21pV8rAm5Os879zhpxyJX4Asb3g-xXGZCIGh7potf1t8id3W3Bj7TjnD0f4awROBb2CKSFF8peH-4jnDA4901P1ZuSTWzMeeDzcSLfFvOwqO43iIt6lXgVVsIoHpgArqnKGEagQ.jpg" group-title="Juegos Olimpicos 2026",18/02 16:30 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179423
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 07:45 Women's 4x6km Relay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 07:45 Women's 4x6km Relay
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179424
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 20:00 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="Juegos Olimpicos 2026",18/02 20:00 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179425
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invierno | 05:15 M&W Team Sprint Free: Finals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invierno | 05:15 M&W Team Sprint Free: Finals
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179426
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 22:00 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDFSAAfmeBKmEAt5vaEfY3C8cqrIVSb50EtuaqV9dK2SdhyomymMqSl5Afu14Iie0pyQQV3xR0HMM6zwI6aHjHNFXeO2V96DHc6YymhCgifXSBGMK-WBoHqfI-yRSnmt3Ye.jpg" group-title="Juegos Olimpicos 2026",18/02 22:00 CDMX | JJOO Milan-Cortina 2026 | Milan Cortina 2026 Coverage (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179427
+
+#EXTINF:-1 tvg-id="" tvg-name="JO Invienro | 13:15 M 500m & W Relay Finals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invienro | 13:15 M 500m & W Relay Finals
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179428
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 15:00 CDMX AEW En Español || AEW Dynamite (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDF2lC5LJhpKKxdT7embm4z1n-xZW2kfmTG86IzDPHPyvsMAJHTBTinvVaz0fGHPqXDfFj8fGNUGOPxXYsw85TDMXUpqTqd1JhVdf1--2hloeFV2575h16UejyL2KJ1ru6_.jpg" group-title="Juegos Olimpicos 2026",18/02 15:00 CDMX AEW En Español || AEW Dynamite (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179429
+
+#EXTINF:-1 tvg-id="" tvg-name="CMLL 19:30" tvg-logo="https://cmll.com/wp-content/uploads/2020/07/logo-cmll.png" group-title="EVENTOS PPV",CMLL 19:30
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179430
+
+#EXTINF:-1 tvg-id="" tvg-name="18/02 15:00 CDMX AEW English: || AEW Dynamite (Z)" tvg-logo="http://onerestream.us:80/images/Y46dKgcG1nBNlfq53JPBFUd_rJYfagBl_7QO9mDQmNlbsXYyZg0SQRzpCMlWRMDF2lC5LJhpKKxdT7embm4z1n-xZW2kfmTG86IzDPHPyvsMAJHTBTinvVaz0fGHPqXDfFj8fGNUGOPxXYsw85TDMXUpqTqd1JhVdf1--2hloeFV2575h16UejyL2KJ1ru6_.jpg" group-title="EVENTOS PPV",18/02 15:00 CDMX AEW English: || AEW Dynamite (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179431
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 05:00pm O'Higgins vs Bahia = FoxSports" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 05:00pm O'Higgins vs Bahia = FoxSports
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179432
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 05:00pm O'Higgins vs Bahia = Espn2 Mx" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 05:00pm O'Higgins vs Bahia = Espn2 Mx
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179433
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 05:00pm O'Higgins vs Bahia = BeinSportsLatino" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 05:00pm O'Higgins vs Bahia = BeinSportsLatino
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179434
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = FoxSports" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = FoxSports
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179435
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = Telede Argentina" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = Telede Argentina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179436
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = Espn2 Mx" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = Espn2 Mx
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179437
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = BeinSportsLatino" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Barcelona vs Argentinos Juniors = BeinSportsLatino
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179438
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = Espn2 Colombia" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = Espn2 Colombia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179439
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = BeinXtra Espanol" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = BeinXtra Espanol
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179440
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = BeinXtra" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 07:30pm Nacional Potosí vs Botafogo = BeinXtra
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179441
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 12:45pm Qarabağ vs Newcastle United = FoxSports" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 12:45pm Qarabağ vs Newcastle United = FoxSports
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179442
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 12:45pm Qarabağ vs Newcastle United = Espn Colombia" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 12:45pm Qarabağ vs Newcastle United = Espn Colombia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179443
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Espn2 Sur" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Espn2 Sur
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179444
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Espn Colombia" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Espn Colombia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179445
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Dazn2" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Bodø / Glimt vs Internazionale = Dazn2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179446
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Espn Sur" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Espn Sur
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179447
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Espn2 Colombia" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Espn2 Colombia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179448
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Dazn1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Club Brugge vs Atlético Madrid = Dazn1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179449
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Olympiakos Piraeus vs Bayer Leverkusen = Espn3 Sur" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Olympiakos Piraeus vs Bayer Leverkusen = Espn3 Sur
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179450
+
+#EXTINF:-1 tvg-id="" tvg-name="02/18 Soccer 03:00pm Olympiakos Piraeus vs Bayer Leverkusen = Espn5 Sur" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50" group-title="EVENTOS PPV",02/18 Soccer 03:00pm Olympiakos Piraeus vs Bayer Leverkusen = Espn5 Sur
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179451
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 1 LATINOAMERICA" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",ESPN | 1 LATINOAMERICA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179479
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 1 SUR" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",ESPN | 1 SUR
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179481
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | COL 2 HD" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",ESPN | COL 2 HD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179486
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 2 SUR" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="CANALES-DEPORTES",ESPN | 2 SUR
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179488
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 2 SUR ®" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="CANALES-DEPORTES",ESPN | 2 SUR ®
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179489
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | USA NEW HD" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",ESPN | USA NEW HD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179490
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 3 ARG FHD" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="CANALES-DEPORTES",ESPN | 3 ARG FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179492
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 3 COL" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="CANALES-DEPORTES",ESPN | 3 COL
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179493
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 3 HD" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="CANALES-DEPORTES",ESPN | 3 HD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179495
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 3 SUR" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="CANALES-DEPORTES",ESPN | 3 SUR
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179498
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 4 MX" tvg-logo="https://i.ibb.co/bgRKgH31/image.png" group-title="CANALES-DEPORTES",ESPN | 4 MX
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179502
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | DEPORTES FHD" tvg-logo="https://i.ibb.co/gFtY6Tnm/image.png" group-title="CANALES-DEPORTES",ESPN | DEPORTES FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179504
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | NEWS USA FHD" tvg-logo="https://i.ibb.co/LdKwLL7M/image.png" group-title="CANALES-DEPORTES",ESPN | NEWS USA FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179508
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | PLUS" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="CANALES-DEPORTES",ESPN | PLUS
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179509
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | PREMIUM ARG OPC # 1" tvg-logo="https://i.ibb.co/3LTR6JL/image.png" group-title="CANALES-DEPORTES",ESPN | PREMIUM ARG OPC # 1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179510
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | PREMIUM ARG OPC # 2" tvg-logo="https://i.ibb.co/3LTR6JL/image.png" group-title="CANALES-DEPORTES",ESPN | PREMIUM ARG OPC # 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179511
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | SPORTS USA" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="CANALES-DEPORTES",ESPN 2 | SPORTS USA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179512
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN│SPORTS USA" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",ESPN│SPORTS USA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179513
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | Espn Plus Sur" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="CANALES-DEPORTES",ESPN | Espn Plus Sur
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179514
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 05" tvg-logo="https://i.ibb.co/N2rw1H27/image.png" group-title="CANALES-DEPORTES",ESPN | 05
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179517
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 06" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="CANALES-DEPORTES",ESPN | 06
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179518
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 07" tvg-logo="https://i.ibb.co/gZF3ttc2/image.png" group-title="CANALES-DEPORTES",ESPN | 07
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179519
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 FHD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="CANALES-DEPORTES",FOX SPORTS 3 FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179520
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2  LAT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",FOX SPORTS 2  LAT HD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179522
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1  LAT FHD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="CANALES-DEPORTES",FOX SPORTS 1  LAT FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179523
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",FOX SPORTS 2 AR FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179524
+
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FOX SPORTS 3 MX FHD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="CANALES-DEPORTES",FOX SPORTS 3 MX FHD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179525
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 TP MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",FOX SPORTS 2 TP MX
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179526
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="CANALES-DEPORTES",FOX DEPORTES
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179527
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2  LAT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",FOX SPORTS 2  LAT HD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179528
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",FOX SPORTS 2 HD MX
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179529
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports Prmium (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Prmium (Z)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179530
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179531
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 Sur (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 Sur (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179532
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports Premium (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179534
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 1 CH (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/Logo_Fox_Sports_Chile.png/revision/latest?cb=20150224214037&path-prefix=es" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 CH (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179535
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Telemundo Deportes (Z)(1080)" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="CANALES-DEPORTES",DEPORTES - Telemundo Deportes (Z)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179536
+
+#EXTINF:-1 tvg-id="Univision.(KLRA).Little.Rock,.AR.us" tvg-name="DEPORTES - Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="CANALES-DEPORTES",DEPORTES - Univision Deportes (Z)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179537
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | 02 • LIGA PR0 ( EXCLUSIVO CLIENTES )" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 02 • LIGA PR0 ( EXCLUSIVO CLIENTES )
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179540
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | 03 • LIGA PR0 ( EXCLUSIVO CLIENTES )" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 03 • LIGA PR0 ( EXCLUSIVO CLIENTES )
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179541
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | 04 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 04 • LIGA PR0
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179542
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | 05 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 05 • LIGA PR0
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179543
+
 #EXTINF:-1 tvg-id="" tvg-name="Acusada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oleJ8S5dwAOhvApbMLXMuBsYHbL.jpg" group-title="VOD-CINE LATINO",Acusada (2018)
 http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178913.mkv
 
@@ -6785,159 +7694,6 @@ http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179000.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Yo, imposible (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gLG2xRNbwughHCka23MAbrUxGb.jpg" group-title="VOD-CINE LATINO",Yo, imposible (2018)
 http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179001.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hasta Que La Plata Nos Separe (2022)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hasta Que La Plata Nos Separe (2022)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179002
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hermanitas Calles (2016)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hermanitas Calles (2016)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179003
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hilo De Sangre Azul" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hilo De Sangre Azul
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179004
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hilos De Amor" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hilos De Amor
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179005
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias Clasificadas (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Historias Clasificadas (2012)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179006
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juegos Prohibidos " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Juegos Prohibidos
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179007
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La baby sister (2000)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La baby sister (2000)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179008
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/onWQpt1fmu8pr0M1rsgFjtzMvsR.jpg" group-title="24/7 ANIME",24/7 Super Campeones (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179009
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Caponera (1990)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Caponera (1990)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179010
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga de Pilaf (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/y61KaZuwUD1Egh7jp9KCOb4eG9s.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga de Pilaf (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179011
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La costeña y el cachaco (2003)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La costeña y el cachaco (2003)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179012
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/pFaj9cYCSXuOYX41KCDMA8CYyUC.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179013
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Freezer (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/uFkK1f8Vb8spinlMLTyncBLVXNa.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Freezer (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179014
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La gloria de Lucho (2019)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La gloria de Lucho (2019)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179015
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTse3cj79Ry7a7c_wkW2smBMYixMI_fS-FEvQ&s" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179016
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La mujer en el espejo (1997)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La mujer en el espejo (1997)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179017
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Androides (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/8uysSRI5MpJRQE8SymhnNEmLyt5.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Androides (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179018
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/c821uLZxCxxVWR8LdVHedKSHebt.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179019
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkHmpnrIsc5aObHA1v1EEEs3P6V_xX25JNA6Bn5EWJpzqB7L8jk0YJHPEcjDva0XbrBG6xp2ZiwcycMKfRmXQz56YAT8OCCKn6mwhUbxS2q3mhTKdIFI81E1WvqGQ4NhAASEtYk_OLvE/s1600/Koji+and+Pikkon.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179020
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/u3nEeIkCR7mcpEJXZpUGUTLmF3O.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179021
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)(720)" tvg-logo="https://c4.wallpaperflare.com/wallpaper/890/40/886/dragon-ball-dragon-ball-z-goku-majin-buu-wallpaper-preview.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179022
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Nocturna" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Nocturna
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179023
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/pbeKsy68t8Qigic8YW6QKJ5tuLk.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179024
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Baby (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/7DNO3JaqF3BstxAz5XZdlVsgIcL.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Baby (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179025
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)" tvg-logo="https://i.ytimg.com/vi/89OspdrknJ0/maxresdefault.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179026
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pasión Según Nuestros Días" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Pasión Según Nuestros Días
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179027
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)" tvg-logo="https://pbs.twimg.com/media/EWcwGuWXsAEVKT_.jpg" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179028
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/3PTiPaysswwacE9uDtJorZ7MCKs.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179029
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/dEP0dFzWDrFZ4S7p8P80UiqzVwT.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179030
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/t4CuEVehDcGIgef8iMp4e262eDd.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179031
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Zamasu (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/bBR7NvJlwBwHCEzTC2aL7bvU9yy.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Zamasu (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179032
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/w6c7J4WzgOThwJBeItcxJ7TZV5P.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179033
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/1OgOREJB0rJknNASxmhIIGoxgXC.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179034
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Daima (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/jHZofim3Matbn0TbJhNp88Ij8YD.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Daima (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179035
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes (e)(720)" tvg-logo="https://i.etsystatic.com/59798469/r/il/08ee8f/6886227146/il_fullxfull.6886227146_a8o3.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Heroes (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179036
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La reina del Flow" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La reina del Flow
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179037
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Saga Negocio de Familia (2004)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Saga Negocio de Familia (2004)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179195
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7mchKkoQOf27UP7cggIPzlmmnEv.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179196
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/gu1zQehSOWJfGFw6lqiDlbeIOXd.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179197
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/43a873b2392862c8026e5a16df67888c926974258c94f1a96c7862a9e6c1380b.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179198
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Seleccion (2014)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Seleccion (2014)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179199
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)" tvg-logo="https://i.ytimg.com/vi/pySM8xXxK7o/maxresdefault.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179200
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/3rvxC5oWFAvUPcQ2hXomaMV5ccK.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179201
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/yioQfdFKzEQAdsjLx9zFzlxmoVt.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179202
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lady, La Vendedora De Rosas (2015)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Lady, La Vendedora De Rosas (2015)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179203
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Reyes" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Los Reyes
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179204
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Luzbel está de visita " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Luzbel está de visita
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179205
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pa' Quererte (2020)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pa' Quererte (2020)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179206
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pandillas guerra y paz (1999)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pandillas guerra y paz (1999)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179207
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pecados Capitales (2002)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pecados Capitales (2002)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179216
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro El Escamoso (2001)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pedro El Escamoso (2001)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179217
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
