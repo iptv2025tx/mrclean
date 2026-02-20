@@ -2757,9 +2757,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160833
 #EXTINF:-1 tvg-id="" tvg-name="COL-La Morada Radio TV (W)(720)" tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="COLOMBIA (LOCAL)",COL-La Morada Radio TV (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160835
 
-#EXTINF:-1 tvg-id="" tvg-name="COL-MasMusica FM (W)(720)" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="COLOMBIA (LOCAL)",COL-MasMusica FM (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160838
-
 #EXTINF:-1 tvg-id="" tvg-name="COL-MCI Televisión (W)(1080)" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="COLOMBIA (LOCAL)",COL-MCI Televisión (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160840
 
@@ -3687,9 +3684,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175948
 #EXTINF:-1 tvg-id="" tvg-name="ECU-RTS (W)(SD)" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR-LOCAL",ECU-RTS (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175949
 
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Telemar (W)(720)" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="ECUADOR-LOCAL",ECU-Telemar (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175954
-
 #EXTINF:-1 tvg-id="" tvg-name="ECU-TV Color Canal 36 (W)(720)" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="ECUADOR-LOCAL",ECU-TV Color Canal 36 (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175958
 
@@ -4569,9 +4563,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10182
 #EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion1 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="SALVADOR",Liga ESV opcion1 (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173677
 
-#EXTINF:-1 tvg-id="" tvg-name="SAL-Liga ESV opcion2 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="SALVADOR",SAL-Liga ESV opcion2 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173678
-
 #EXTINF:-1 tvg-id="" tvg-name="Liga GT OP2 (Z)" tvg-logo="https://i.postimg.cc/YqmPk24J/GUA.jpg" group-title="GUATEMALA",Liga GT OP2 (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173681
 
@@ -4638,9 +4629,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87575
 #EXTINF:-1 tvg-id="" tvg-name="MEX-B15 Zacatecas (W)(1080)" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="MEXICO-LOCAL",MEX-B15 Zacatecas (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164599
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-BAMOS TV (W)(1080)" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="MEXICO-LOCAL",MEX-BAMOS TV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164600
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87592
 
@@ -4670,9 +4658,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87597
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 TV Cozumel (W)(1080)" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="MEXICO-LOCAL",MEX-Canal 5 TV Cozumel (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164602
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal del Congreso 45.1(W)(720)" tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="MEXICO-LOCAL",MEX-Canal del Congreso 45.1(W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164627
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Conecta TV (W)(720)" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="MEXICO-LOCAL",MEX-Conecta TV (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164630
@@ -4812,9 +4797,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164709
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",MEX-Televisa Monterrey (L)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87605
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-The Pet Collective International (W)(720)" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="MEXICO-LOCAL",MEX-The Pet Collective International (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164710
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Tlaxcala Televisión (W)(SD)" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="MEXICO-LOCAL",MEX-Tlaxcala Televisión (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164711
 
@@ -4856,9 +4838,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164741
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Visión Televisión (W)(720)" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="MEXICO-LOCAL",MEX-Visión Televisión (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164742
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-WeatherSpy (W)(720)" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="MEXICO-LOCAL",MEX-WeatherSpy (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164743
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX_Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX_Canal 5 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87596
@@ -6720,9 +6699,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160503
 #EXTINF:-1 tvg-id="" tvg-name="VEN-Latina TV (W)(1080)" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="VENEZUELA",VEN-Latina TV (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160505
 
-#EXTINF:-1 tvg-id="" tvg-name="VEN-LGD Television (W)(720)" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" group-title="VENEZUELA",VEN-LGD Television (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160506
-
 #EXTINF:-1 tvg-id="" tvg-name="VEN-Más Talk (W)(1080)" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="VENEZUELA",VEN-Más Talk (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160507
 
@@ -6758,9 +6734,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160533
 
 #EXTINF:-1 tvg-id="" tvg-name="VEN-TLT (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/6605d0ddf74d47d20ddba3993f4f41da.png" group-title="VENEZUELA",VEN-TLT (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/13020
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN-TNO Radio (W)(720)" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="VENEZUELA",VEN-TNO Radio (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160534
 
 #EXTINF:-1 tvg-id="" tvg-name="VEN-TRT (W)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="VENEZUELA",VEN-TRT (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160536
@@ -7370,6 +7343,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180015
 
 #EXTINF:-1 tvg-id="" tvg-name="JO Invienro | 13:15 W 1500m & M Relay Finals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png" group-title="Juegos Olimpicos 2026",JO Invienro | 13:15 W 1500m & M Relay Finals
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180017
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://hipodromo.cl/generales_imagenes/logos/logo_hch-230x50px.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180037
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
