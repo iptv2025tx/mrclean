@@ -15,29 +15,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
 #EXTINF:-1 tvg-id="" tvg-name="PPV 4 - (E)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 4 - (E)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178777
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 alf (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 alf (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162835
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 Alf (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162884
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Amor a la plancha (e)(SD)" tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/676eabde73fec95dc8e62e9d/6ad4732670fe6197326c535c1fe1baf5/img.png" group-title="24/7 TELENOVELAS",24/7 Amor a la plancha (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178783
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Angel de la Guarda Mi Dulce Compañia (e)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/6/65/Angel_de_la_guarda.jpg/250px-Angel_de_la_guarda.jpg" group-title="24/7 TELENOVELAS",24/7 Angel de la Guarda Mi Dulce Compañia (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178784
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaciones (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Animaciones (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162885
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Animaniacs [Completo] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162939
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Barón Rojo (M)(720)" tvg-logo="" group-title="24/7 RETRO INFANTIL",24/7 Barón Rojo (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162940
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (M)(720)" tvg-logo="" group-title="24/7 RETRO INFANTIL",24/7 Batman (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162837
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bermúdez (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/6JtigtSkR6693YrA9lxuFt7rbgr.jpg" group-title="24/7 TELENOVELAS",24/7 Bermúdez (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178785
@@ -53,12 +35,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166969
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bloque de búsqueda (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lM8zAmNKXdDQaXtWiTHrnvl6h36.jpg" group-title="24/7 TELENOVELAS",24/7 Bloque de búsqueda (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178786
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Bob Esponja (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162888
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Calabozos y dragones (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Calabozos y dragones (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162978
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chepe Fortuna (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/8KwiQK3PdhWLD0jiOprCgDimLrV.jpg" group-title="24/7 TELENOVELAS",24/7 Chepe Fortuna (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178787
@@ -369,44 +345,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164993
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164988
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Coraje el Perro Cobarde (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162821
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Coraje Perro Cobarde (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162890
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CorreCamino (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 CorreCamino (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162898
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg" group-title="24/7 SERIES",24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165477
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162822
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162891
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios [Completo] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162943
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Doraemon (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162846
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doug (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Doug (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162944
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Doña Bella (e)(1080)" tvg-logo="https://criticatvblog.wordpress.com/wp-content/uploads/2020/05/donabella-720x405_0.jpg" group-title="24/7 TELENOVELAS",24/7 Doña Bella (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178790
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DR House (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 DR House (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162881
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragin Ball Z (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragin Ball Z (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162896
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DraginBall (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 DraginBall (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162893
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7mchKkoQOf27UP7cggIPzlmmnEv.jpg" group-title="24/7 ANIME",24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179196
@@ -446,9 +389,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179026
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes (e)(720)" tvg-logo="https://i.etsystatic.com/59798469/r/il/08ee8f/6886227146/il_fullxfull.6886227146_a8o3.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Heroes (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179036
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragon Ball Super (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162895
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/dEP0dFzWDrFZ4S7p8P80UiqzVwT.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179030
@@ -492,14 +432,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179020
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/1OgOREJB0rJknNASxmhIIGoxgXC.jpg" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179034
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon BallGT (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragon BallGT (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162894
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Ecomoda (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/ndqlV3A5s4F2mPE11I2P0Xj1Cbn.jpg" group-title="24/7 TELENOVELAS",24/7 Ecomoda (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178791
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ed, Edd y Eddy (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Ed, Edd y Eddy (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162946
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Amor Es Mas Fuerte (e)(SD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxs9L2yXBnJtD4O3r-fqhNreZ4qm4FEc3sag&s" group-title="24/7 TELENOVELAS",24/7 El Amor Es Mas Fuerte (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178793
@@ -510,38 +444,14 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178795
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Bronx" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 El Bronx
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178796
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Coyote y el Correcaminos [Completo] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162947
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El encantador " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 El encantador
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178822
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Gallo Claudio (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Gallo Claudio (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162872
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El inutil " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 El inutil
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178835
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162948
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El man es Germán " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 El man es Germán
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178837
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Pajaro Loco (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162824
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pato Darkwing (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Pato Darkwing (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162950
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principel del Rap (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 El Principel del Rap (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162857
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Elementary (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Elementary (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162951
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Elfen Lied (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Elfen Lied (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162901
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 En Los Tacones De Eva" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 En Los Tacones De Eva
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178842
@@ -549,32 +459,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178842
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Gabriela, giros del destino " tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Gabriela, giros del destino
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178844
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones HD (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Game of Thrones HD (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162903
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones SD (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Game of Thrones SD (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162953
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield y sus amigos (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Garfield y sus amigos (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162954
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Happy Tree Friends (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162955
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hasta Que La Plata Nos Separe (2022)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hasta Que La Plata Nos Separe (2022)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179002
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hermanitas Calles (2016)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hermanitas Calles (2016)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179003
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162823
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold! (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162904
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold! [Completo] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162956
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hilo De Sangre Azul" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Hilo De Sangre Azul
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179004
@@ -584,18 +473,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179005
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Historias Clasificadas (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Historias Clasificadas (2012)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179006
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hora de Aventura (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162905
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de aventura (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hora de aventura (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162957
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 House of Cards (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 House of Cards (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162958
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunter x Hunter (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Hunter x Hunter (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162959
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/gPKbX01yY0o9hMRez2RFFOghPSD.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169534
@@ -705,9 +582,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169576
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Un show mas (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/6MI0ASNsRlIaiO9viXBhaU8u9N1.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Un show mas (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169572
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Johnny Bravo (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162960
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Josué y la tierra prometida (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/2GCbXAP6eSTWmzq7tU6fqr02v7R.jpg" group-title="24/7 TELENOVELAS",24/7 Josué y la tierra prometida (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166970
 
@@ -756,20 +630,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179017
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Nocturna" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Nocturna
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179023
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa Show (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa Show (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162962
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa y sus hijos (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa y sus hijos (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162963
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa [Completo] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162964
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Pasión Según Nuestros Días" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Pasión Según Nuestros Días
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179027
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pequeña Lulú (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La Pequeña Lulú (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162965
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La reina del Flow" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La reina del Flow
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179037
@@ -780,53 +642,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179195
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Seleccion (2014)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Seleccion (2014)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179199
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La vaca y el pollito (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162966
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Lady, La Vendedora De Rosas (2015)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Lady, La Vendedora De Rosas (2015)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179203
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las aventuras de Tom Sawyer (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162909
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las chicas superpoderosas (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162968
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las sombrías aventuras de Billy y Mandy (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las sombrías aventuras de Billy y Mandy (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162970
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga De La Justicia Ilimitada (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Liga De La Justicia Ilimitada (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162971
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Lizzie McGuire (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/yXRvq0gGhUj7gjkCUSwUoESDEby.jpg" group-title="24/7 SERIES JUVENILES",24/7 Lizzie McGuire (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175552
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Loonatics (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Loonatics (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162973
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Looney Tunes (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162856
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Looney Tunes (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162910
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los autos locos (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Los autos locos (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162974
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Los años maravillosos (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162975
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los chicos del barrio (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los chicos del barrio (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162977
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162854
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162873
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162912
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Reyes" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Los Reyes
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179204
@@ -854,15 +674,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175553
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mythic Quest (e)(1080)" tvg-logo="https://image.tmdb.org/t/p/original/1LDKEbU4aDgP3r7vBiSQp2VQ7m9.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Mythic Quest (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178806
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162855
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162914
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippuden (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto Shippuden (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162915
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Novelas - A Corazon Abierto (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/dxFg4JnEdUEQBbDPciqeHIHgdaL.jpg" group-title="24/7 TELENOVELAS",24/7 Novelas - A Corazon Abierto (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/168029
@@ -915,15 +726,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166974
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Novelas - Tres milagros (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/sIcNZ6XYZkSF79loTvhWGJvkyrC.jpg" group-title="24/7 TELENOVELAS",24/7 Novelas - Tres milagros (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166971
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162852
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162875
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162900
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pa' Quererte (2020)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pa' Quererte (2020)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179206
 
@@ -938,21 +740,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179216
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro El Escamoso (2001)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Pedro El Escamoso (2001)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179217
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Pinky y Cerebro (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162876
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Pinky y Cerebro (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162932
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 POKEMON (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162851
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Principe de Bel-air (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Principe de Bel-air (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162899
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RANMA (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 RANMA (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162829
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - ALF (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/X7SzDqIUEHxyjXwP0pRijSrWNm.jpg" group-title="24/7 RETRO",24/7 Retro - ALF (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174837
@@ -1070,15 +857,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179561
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Rosario Tijeras (2016)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Rosario Tijeras (2016)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179563
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAKURA (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 SAKURA (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162831
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Samurai X (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Samurai X (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162850
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Scooby Doo (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162849
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series - (Des)encanto (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/vz4NbG9QYymFq4sKCoPbOmKuRIA.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - (Des)encanto (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177733
@@ -1407,17 +1185,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165195
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Sin Senos no hay Paraíso (2008)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Sin Senos no hay Paraíso (2008)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179564
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin Senos no hay Paraíso (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Sin Senos no hay Paraíso (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162984
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin senos sí hay paraíso (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Sin senos sí hay paraíso (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162985
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Sin tetas no hay paraíso (2006)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Sin tetas no hay paraíso (2006)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179565
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Smallville (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162847
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Solar Opposites (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/eOwfiYHJvbQlViEKhrWoHSIeDll.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Solar Opposites (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178794
@@ -1428,32 +1197,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178797
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park Temp 15 al 28 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/1RnTRQEi1LHWulyd1O1ji4QHKhn.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 South Park Temp 15 al 28 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178807
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Star Trek (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162836
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/onWQpt1fmu8pr0M1rsgFjtzMvsR.jpg" group-title="24/7 ANIME",24/7 Super Campeones (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179009
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Super Campeones (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162848
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Súper Campeones (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Súper Campeones (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162936
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Tom y Jerry (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162845
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TrollHunters (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 TrollHunters (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162878
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tu Voz Estereo (2006)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Tu Voz Estereo (2006)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179566
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Two and a Half Men [SUB] (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Two and a Half Men [SUB] (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162983
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Un Show Más (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Un Show Más (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162938
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Vecinos
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179567
@@ -1463,12 +1211,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177728
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Western Clasicos 2 (e)(1080)" tvg-logo="https://image.roku.com/developer_channels/prod/1bc2a51056e2169b6ab171bc070cd61e82e82aade0006d21407fe57918c8db68.png" group-title="24/7 CINEMA ",24/7 Western Clasicos 2 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177729
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162853
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh! (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Yu-Gi-Oh! (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162879
 
 #EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Baños (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Baños (L)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179555
@@ -1689,9 +1431,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175761
 #EXTINF:-1 tvg-id="" tvg-name="BRA-CINE SKY 1(720)(Z)" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="BRASIL",BRA-CINE SKY 1(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175762
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA-CINE SKY 5(720)(Z)" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="BRASIL",BRA-CINE SKY 5(720)(Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175763
-
 #EXTINF:-1 tvg-id="" tvg-name="BRA-CINEMAX(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="BRASIL",BRA-CINEMAX(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175764
 
@@ -1701,12 +1440,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175765
 #EXTINF:-1 tvg-id="" tvg-name="BRA-DISCOVERY KIDS(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="BRASIL",BRA-DISCOVERY KIDS(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175766
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA-GLOBO SP(720)(Z)" tvg-logo="http://miarea.vip:8080/images/6d3f65b082e7e4c09f5eefbc9982c276.png" group-title="BRASIL",BRA-GLOBO SP(720)(Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175768
-
-#EXTINF:-1 tvg-id="" tvg-name="BRA-GLOBO(720)(Z)" tvg-logo="https://i.ibb.co/BVqb59d1/image.png" group-title="BRASIL",BRA-GLOBO(720)(Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175767
-
 #EXTINF:-1 tvg-id="" tvg-name="BRA-H2(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" group-title="BRASIL",BRA-H2(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175769
 
@@ -1715,9 +1448,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175770
 
 #EXTINF:-1 tvg-id="" tvg-name="BRA-HBO POP(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="BRASIL",BRA-HBO POP(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175771
-
-#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO SIGNATURE(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="BRASIL",BRA-HBO SIGNATURE(720)(Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175772
 
 #EXTINF:-1 tvg-id="" tvg-name="BRA-MULTISHOW(720)(Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="BRASIL",BRA-MULTISHOW(720)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175773
@@ -6917,6 +6647,297 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180720
 
 #EXTINF:-1 tvg-id="" tvg-name="Festival Viña 2026 (Segunda Noche) (L)" tvg-logo="https://elfestival.tv/wp-content/uploads/2025/08/Logo_Festival-de-Vin%CC%83a_2026-02-1-scaled.png" group-title="EVENTOS PPV",Festival Viña 2026 (Segunda Noche) (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180721
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Parana (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT Parana (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180723
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Jangadeiro CE (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT Jangadeiro CE (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180725
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Interior (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT Interior (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180726
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT GO (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT GO (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180727
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Brasilia" tvg-logo="" group-title="BRASIL",BRA-SBT Brasilia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180728
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Aratu Bahia (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT Aratu Bahia (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180729
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT Alterosa MG" tvg-logo="" group-title="BRASIL",BRA-SBT Alterosa MG
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180730
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SBT (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SBT (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180731
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo Brasilia (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo Brasilia (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180732
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-A&E (M)(720)" tvg-logo="" group-title="BRASIL",BRA-A&E (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180733
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Animal Planet (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Animal Planet (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180734
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-AXN (M)(720)" tvg-logo="" group-title="BRASIL",BRA-AXN (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180735
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band News (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180737
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band Sports (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180738
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-BIS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-BIS (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180739
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180740
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Canal Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Canal Brasil (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180741
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180742
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cinemax (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cinemax (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180743
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Comedy Central (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Comedy Central (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180745
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery CH. (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery CH. (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180746
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery CIVILIZATION (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery CIVILIZATION (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180747
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery H&H (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery H&H (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180748
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery ID (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery ID (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180749
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180750
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery SCIENCE (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery SCIENCE (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180751
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery THEATHER (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery THEATHER (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180752
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery WORLD (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery WORLD (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180754
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Disney Channel (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180755
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-E! (M)(720)" tvg-logo="" group-title="BRASIL",BRA-E! (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180757
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Espn 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Espn 2 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180758
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Espn 4" tvg-logo="" group-title="BRASIL",BRA-Espn 4
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180760
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fish TV (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fish TV (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180762
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Star Life (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Star Life (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180764
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Premium 1 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Premium 1 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180765
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180768
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-FX (M)(720)" tvg-logo="" group-title="BRASIL",BRA-FX (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180770
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo NEWS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo NEWS (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180771
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo SP (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo SP (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180773
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Gloob (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Gloob (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180774
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO 2 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180776
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO Family (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO Family (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180777
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180778
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO Signature (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO Signature (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180779
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO Plus (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO Plus (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180780
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-History 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-History 2 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180781
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-History (M)(720)" tvg-logo="" group-title="BRASIL",BRA-History (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180782
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Lifetime (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Lifetime (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180783
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Mais Globosat (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Mais Globosat (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180784
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-MAX (M)(720)" tvg-logo="" group-title="BRASIL",BRA-MAX (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180785
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cinemax (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cinemax (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180786
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180787
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Megapix (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Megapix (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180788
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Multishow (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Multishow (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180789
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Natgeo Wild (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Natgeo Wild (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180791
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-National Geographic (M)(720)" tvg-logo="" group-title="BRASIL",BRA-National Geographic (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180792
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180794
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-OFF (M)(720)" tvg-logo="" group-title="BRASIL",BRA-OFF (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180795
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Paramount (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Paramount (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180796
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 4 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 4 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180797
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 5 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 5 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180798
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 6 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 6 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180799
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere CLUBE (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere CLUBE (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180801
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Prime Box Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Prime Box Brasil (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180802
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180803
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record News (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180804
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Rede Vida (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Rede Vida (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180805
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sony (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sony (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180806
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Space (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Space (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180807
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv 2 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180808
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv 3 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv 3 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180809
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180810
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Studio Universal (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Studio Universal (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180811
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SYFY (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SYFY (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180812
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TBS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TBS (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180813
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine ACTION (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine ACTION (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180814
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine CULT (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine CULT (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180815
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine PIPOCA (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine PIPOCA (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180817
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Premium (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Premium (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180818
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Touch (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Touch (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180819
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TNT (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TNT (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180821
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TNT Series (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TNT Series (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180822
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Tooncast (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Tooncast (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180823
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Câmara (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Câmara (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180825
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Gazeta (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Gazeta (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180827
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Universal Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Universal Channel (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180828
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Viva (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Viva (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180829
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Woohoo (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Woohoo (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180831
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV + (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV + (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180833
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 1 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 1 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180834
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 2 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 2 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180835
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 3 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 3 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180836
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 4 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 4 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180837
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV NBA (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV NBA (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180838
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-SportING TV (M)(720)" tvg-logo="" group-title="BRASIL",POR-SportING TV (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180839
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 5 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 5 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180840
+
+#EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 6 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 6 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180841
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
