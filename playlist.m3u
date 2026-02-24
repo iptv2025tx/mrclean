@@ -2883,13 +2883,10 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165482
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Sky sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9599
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Bundesliga (Z)(1080)" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Bundesliga (Z)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9600
-
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9601
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164158
 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Premier League (Z)(720)
@@ -3810,7 +3807,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162012
 #EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-logo="" group-title="ESPAÑA",ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162011
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar Liga de Campeones (M)(720)
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar Liga de Campeones (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161959
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar Liga de Campeones (M)(720)
@@ -5274,7 +5271,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94286
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="URUGUAY",URU PPV 2 - (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/94287
 
-#EXTINF:-1 tvg-id="A+V.uy" tvg-name="URU-A+V (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" group-title="URUGUAY",URU-A+V (TV)(720)
+#EXTINF:-1 tvg-id="26.TV.uy" tvg-name="URU-A+V (M)(720)" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" group-title="URUGUAY",URU-A+V (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8514
 
 #EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-Canal 10 (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (L)(HQ)
