@@ -1344,7 +1344,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157618
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Paka Paka (M)(720)" tvg-logo="https://i.postimg.cc/m2s9dB1R/Proyecto-X-Argentina-(20).png" group-title="ARGENTINA",ARG - Paka Paka (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157575
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (i)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (i)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (TV)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157590
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (L)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (L)(720)
@@ -6459,18 +6459,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180657
 #EXTINF:-1 tvg-id="" tvg-name="Tc quito" tvg-logo="" group-title="ECUADOR",Tc quito
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180658
 
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 11:00 British Virgin Islands vs. Dominica (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 11:00 British Virgin Islands vs. Dominica (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180659
-
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 12:00 Cayman Islands vs. Turks & Caicos Islands (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 12:00 Cayman Islands vs. Turks & Caicos Islands (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180660
-
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 14:00 Antigua & Barbuda vs. Saint Lucia (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 14:00 Antigua & Barbuda vs. Saint Lucia (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180661
-
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 14:00 Grenada vs. Saint Martin (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 14:00 Grenada vs. Saint Martin (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180662
-
 #EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 15:00 Puerto Rico vs. St. Kitts & Nevis (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 15:00 Puerto Rico vs. St. Kitts & Nevis (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180663
 
@@ -6483,33 +6471,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180665
 #EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 20:00 El Salvador vs. Guyana Francesa (L)" tvg-logo="https://www.concacaf.com/media/i02lhj3k/mu20.png" group-title="EVENTOS PPV",Concacaf Under-20 | 20:00 El Salvador vs. Guyana Francesa (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180666
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier League | 14:00 Everton vs. Manchester United (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png" group-title="EVENTOS PPV",Premier League | 14:00 Everton vs. Manchester United (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180667
-
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 14:00 Alaves vs.Girona FC (L)" tvg-logo="" group-title="EVENTOS PPV",LALIGA | 14:00 Alaves vs.Girona FC (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180668
-
-#EXTINF:-1 tvg-id="" tvg-name="Serie A | 11:30 Fiorentina vs. Pisa (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 11:30 Fiorentina vs. Pisa (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180669
-
-#EXTINF:-1 tvg-id="" tvg-name="Serie A | 13:45 Bologna vs. Udinese (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 13:45 Bologna vs. Udinese (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180670
-
-#EXTINF:-1 tvg-id="" tvg-name="Portugal | 14:15 Famalicão vs Casa Pia (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 14:15 Famalicão vs Casa Pia (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180671
-
-#EXTINF:-1 tvg-id="" tvg-name="Colombia | 15:00 Cúcuta Deportivo vs Deportes Tolima (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 15:00 Cúcuta Deportivo vs Deportes Tolima (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180672
-
-#EXTINF:-1 tvg-id="" tvg-name="League Two | 14:00 Walsall vs. MK Dons (L)" tvg-logo="https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png" group-title="EVENTOS PPV",League Two | 14:00 Walsall vs. MK Dons (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180673
-
-#EXTINF:-1 tvg-id="" tvg-name="Perú | 14:00 Deportivo Moquegua vs Deportivo Garcilaso (L)" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú | 14:00 Deportivo Moquegua vs Deportivo Garcilaso (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180674
-
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 13:30 Cádiz vs Real Sociedad II (L)" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",LaLiga SmartBank | 13:30 Cádiz vs Real Sociedad II (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180675
-
 #EXTINF:-1 tvg-id="" tvg-name="Ecuador | 18:30 Libertad vs Manta (L)" tvg-logo="https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png" group-title="EVENTOS PPV",Ecuador | 18:30 Libertad vs Manta (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180676
 
@@ -6518,21 +6479,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180677
 
 #EXTINF:-1 tvg-id="" tvg-name="Liga Profesional de la OFC | 22:00 South Island United vs Auckland FC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",Liga Profesional de la OFC | 22:00 South Island United vs Auckland FC (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180678
-
-#EXTINF:-1 tvg-id="" tvg-name="Polonia | 12:00 Lechia Gdańsk vs Zagłębie Lubin (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_ekstraklasa.png" group-title="EVENTOS PPV",Polonia | 12:00 Lechia Gdańsk vs Zagłębie Lubin (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180679
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga Saudi | 13:00 Al Quadisiya vs Al Ittifaq (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="EVENTOS PPV",Liga Saudi | 13:00 Al Quadisiya vs Al Ittifaq (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180680
-
-#EXTINF:-1 tvg-id="" tvg-name="National League | 13:45 Chelmsford City vs. Hemel Hempstead (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12868.png" group-title="EVENTOS PPV",National League | 13:45 Chelmsford City vs. Hemel Hempstead (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180681
-
-#EXTINF:-1 tvg-id="" tvg-name="Turquía | 11:00 Fenerbahce vs. Kasimpasa (L)" tvg-logo="" group-title="EVENTOS PPV",Turquía | 11:00 Fenerbahce vs. Kasimpasa (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180682
-
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Women | 11:00 Frankfurt vs. Freiburg (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12752.png" group-title="EVENTOS PPV",Bundesliga Women | 11:00 Frankfurt vs. Freiburg (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180683
 
 #EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Baseball BYU vs.UC Riverside (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Baseball BYU vs.UC Riverside (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180684
@@ -6545,9 +6491,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180686
 
 #EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Baseball Washington State vs.Cal Poly (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Baseball Washington State vs.Cal Poly (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180687
-
-#EXTINF:-1 tvg-id="" tvg-name="12:00 NCAA Softball Indiana vs.South Florida (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",12:00 NCAA Softball Indiana vs.South Florida (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180688
 
 #EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball Texas A&M-Corpus Christi vs.SE Louisiana (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball Texas A&M-Corpus Christi vs.SE Louisiana (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180689
@@ -6567,12 +6510,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180693
 #EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Houston Christian vs.East Texas A&M (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Houston Christian vs.East Texas A&M (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180694
 
-#EXTINF:-1 tvg-id="" tvg-name="11:00 NCAA Mens Lacrosse High Point vs.Robert Morris (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",11:00 NCAA Mens Lacrosse High Point vs.Robert Morris (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180695
-
-#EXTINF:-1 tvg-id="" tvg-name="11:00 NCAA Mens Lacrosse 11 Army vs.Mercer (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",11:00 NCAA Mens Lacrosse 11 Army vs.Mercer (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180696
-
 #EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Womens Gymnastics Northern Illinois vs.Illinois State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Womens Gymnastics Northern Illinois vs.Illinois State (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180697
 
@@ -6581,15 +6518,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180698
 
 #EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Track & Field Sun Belt Indoor Track & Field Championship (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Track & Field Sun Belt Indoor Track & Field Championship (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180699
-
-#EXTINF:-1 tvg-id="" tvg-name="MLB 01 | 12:05 Miami Marlins vs St. Louis Cardinals (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 01 | 12:05 Miami Marlins vs St. Louis Cardinals (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180700
-
-#EXTINF:-1 tvg-id="" tvg-name="MLB 02 | 12:05 New York Yankees vs Pittsburgh Pirates (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 02 | 12:05 New York Yankees vs Pittsburgh Pirates (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180701
-
-#EXTINF:-1 tvg-id="" tvg-name="MLB 03 | 12:07 New York Mets vs Toronto Blue Jays (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 03 | 12:07 New York Mets vs Toronto Blue Jays (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180702
 
 #EXTINF:-1 tvg-id="" tvg-name="MLB 04 | 14:05 Seattle Mariners vs Los Angeles Dodgers (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 04 | 14:05 Seattle Mariners vs Los Angeles Dodgers (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180703
@@ -6606,32 +6534,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180706
 #EXTINF:-1 tvg-id="" tvg-name="NBA 03 | 20:30 Jazz vs. Rockets (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 03 | 20:30 Jazz vs. Rockets (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180707
 
-#EXTINF:-1 tvg-id="" tvg-name="ATP | 04:00 Dubai Duty Free Tennis Championship / New Court 1 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 04:00 Dubai Duty Free Tennis Championship / New Court 1 (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180708
-
-#EXTINF:-1 tvg-id="" tvg-name="ATP | 04:00 Dubai Duty Free Tennis Championship (Primera Ronda) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 04:00 Dubai Duty Free Tennis Championship (Primera Ronda) (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180709
-
-#EXTINF:-1 tvg-id="" tvg-name="ATP | 10:00 Bci Seguros Chile Open (Primera Ronda) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 10:00 Bci Seguros Chile Open (Primera Ronda) (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180710
-
 #EXTINF:-1 tvg-id="" tvg-name="ATP | 18:00 Abierto Mexicano Telcel / Cancha 1 (Doubles) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 18:00 Abierto Mexicano Telcel / Cancha 1 (Doubles) (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180711
 
 #EXTINF:-1 tvg-id="" tvg-name="ATP | 18:00 Abierto Mexicano Telcel / Grandstand (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 18:00 Abierto Mexicano Telcel / Grandstand (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180712
-
-#EXTINF:-1 tvg-id="" tvg-name="11:00 WTA | ATX Open / Center Court (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",11:00 WTA | ATX Open / Center Court (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180713
-
-#EXTINF:-1 tvg-id="" tvg-name="WTA | 13:00 ATX Open / Grandstand (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 13:00 ATX Open / Grandstand (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180714
-
-#EXTINF:-1 tvg-id="" tvg-name="WTA | 14:00 Mérida Open Akron (Primera Ronda) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 14:00 Mérida Open Akron (Primera Ronda) (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180715
-
-#EXTINF:-1 tvg-id="" tvg-name="WTA | 15:00 Mérida Open Akron / Estadio (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 15:00 Mérida Open Akron / Estadio (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180716
 
 #EXTINF:-1 tvg-id="" tvg-name="WTA | 16:00 Mérida Open Akron / Cancha 2 (Doubles) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 16:00 Mérida Open Akron / Cancha 2 (Doubles) (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180717
