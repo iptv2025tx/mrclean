@@ -4281,9 +4281,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173677
 #EXTINF:-1 tvg-id="" tvg-name="Liga GT OP2 (Z)" tvg-logo="https://i.postimg.cc/YqmPk24J/GUA.jpg" group-title="GUATEMALA",Liga GT OP2 (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173681
 
-#EXTINF:-1 tvg-id="" tvg-name="HON-Liga HN (Z)" tvg-logo="https://i.postimg.cc/9MMxkc5g/HON.jpg" group-title="HONDURAS",HON-Liga HN (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173679
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W)(720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO-LOCAL",MEX-ADN 40 (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164589
 
@@ -4803,7 +4800,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8375
 #EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8376
 
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8377
 
 #EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (TV)(1080)
@@ -5004,7 +5001,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/154375
 #EXTINF:-1 tvg-id="" tvg-name="PAR-C9N (TV)(720)" tvg-logo="JrOIpxZm44M/X3O4mgdBcjI/AAAAAAAABqw/8lbyMtW-2s41XGOWRCpSP168bU18B_l3ACLcBGAsYHQ/w200-h200/Canal%2Bc9n%2BParaguay" group-title="PARAGUAY",PAR-C9N (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84565
 
-#EXTINF:-1 tvg-id="" tvg-name="PAR-Farra Play (T)(720)" tvg-logo="QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay" group-title="PARAGUAY",PAR-Farra Play (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PAR-Farra Play (Z)(720)" tvg-logo="QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay" group-title="PARAGUAY",PAR-Farra Play (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84566
 
 #EXTINF:-1 tvg-id="" tvg-name="PAR-La Tele (TV)(720)" tvg-logo="ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay" group-title="PARAGUAY",PAR-La Tele (TV)(720)
@@ -5019,10 +5016,10 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84570
 #EXTINF:-1 tvg-id="" tvg-name="PAR-Paravision (Z)(720)" tvg-logo="JltdzB525gk/X3O4oWM-i4I/AAAAAAAABq8/y7Ioet0emlQ8SW5oD5Z7_zbiKJAZRyRBgCLcBGAsYHQ/w200-h200/Canal%2Bparavisi%25C3%25B3n%2BParaguay" group-title="PARAGUAY",PAR-Paravision (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84572
 
-#EXTINF:-1 tvg-id="" tvg-name="PAR-RCC (T)(720)" tvg-logo="zJzM4ug1J-E/X3O4l11abFI/AAAAAAAABqk/V6ZgtTnTG6ITcyXGwcDyaTfvYzY4gLveQCLcBGAsYHQ/w200-h200/Canal%2BParaguay%2Btv%2BParaguay" group-title="PARAGUAY",PAR-RCC (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PAR-RCC (Z)(720)" tvg-logo="zJzM4ug1J-E/X3O4l11abFI/AAAAAAAABqk/V6ZgtTnTG6ITcyXGwcDyaTfvYzY4gLveQCLcBGAsYHQ/w200-h200/Canal%2BParaguay%2Btv%2BParaguay" group-title="PARAGUAY",PAR-RCC (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84571
 
-#EXTINF:-1 tvg-id="" tvg-name="PAR-RPC PY (HD)(T2)" tvg-logo="5l28tZx2j7w/X3O4pf-jWeI/AAAAAAAABrE/eZwAPegHCrYzWtMblWfnPrO1fh3o2ZqSwCLcBGAsYHQ/w200-h200/Canal%2Brpc%2BParaguay" group-title="PARAGUAY",PAR-RPC PY (HD)(T2)
+#EXTINF:-1 tvg-id="" tvg-name="PAR-RPC PY (HD)(Z)" tvg-logo="5l28tZx2j7w/X3O4pf-jWeI/AAAAAAAABrE/eZwAPegHCrYzWtMblWfnPrO1fh3o2ZqSwCLcBGAsYHQ/w200-h200/Canal%2Brpc%2BParaguay" group-title="PARAGUAY",PAR-RPC PY (HD)(Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84573
 
 #EXTINF:-1 tvg-id="" tvg-name="PAR-Telefuturo (Z)(720)" tvg-logo="uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay" group-title="PARAGUAY",PAR-Telefuturo (Z)(720)
