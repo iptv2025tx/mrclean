@@ -6690,10 +6690,10 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180840
 #EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 6 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 6 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180841
 
-#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="EVENTOS PPV",US | Sunday NFL Red Zone (L)
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="USA-SPORTS",US | Sunday NFL Red Zone (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181055
 
-#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="EVENTOS PPV",US | Sunday NFL Red Zone (L)
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="USA-SPORTS",US | Sunday NFL Red Zone (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181056
 
 #EXTINF:-1 tvg-id="" tvg-name="Festival Viña 2026 (Tercera Noche) (L)" tvg-logo="https://elfestival.tv/wp-content/uploads/2025/08/Logo_Festival-de-Vin%CC%83a_2026-02-1-scaled.png" group-title="EVENTOS PPV",Festival Viña 2026 (Tercera Noche) (L)
@@ -7250,6 +7250,120 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181240
 
 #EXTINF:-1 tvg-id="" tvg-name="ATP | 10:00 Bci Seguros Chile Open (Segunda Ronda) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 10:00 Bci Seguros Chile Open (Segunda Ronda) (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181241
+
+#EXTINF:-1 tvg-id="" tvg-name="22:30 LA Galaxy vs Sporting San Miguelito (Z)" tvg-logo="https://i.imgur.com/o1PFJIN.png" group-title="EVENTOS PPV",22:30 LA Galaxy vs Sporting San Miguelito (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181242
+
+#EXTINF:-1 tvg-id="" tvg-name="21:00 Boston Celtics vs Denver Nuggets (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",21:00 Boston Celtics vs Denver Nuggets (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181243
+
+#EXTINF:-1 tvg-id="" tvg-name="20:30 Vancouver Whitecaps vs CS Cartaginés (Z)" tvg-logo="https://i.imgur.com/o1PFJIN.png" group-title="EVENTOS PPV",20:30 Vancouver Whitecaps vs CS Cartaginés (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181244
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Saint Martin U20 vs El Salvador U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",20:00 Saint Martin U20 vs El Salvador U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181245
+
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Mexico vs Iceland (Z)" tvg-logo="https://i.imgur.com/dEBZGcE.png" group-title="EVENTOS PPV",20:00 Mexico vs Iceland (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181246
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 Cleveland Cavaliers vs Milwaukee Bucks (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",19:00 Cleveland Cavaliers vs Milwaukee Bucks (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181247
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 Sacramento Kings vs Houston Rockets (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",19:00 Sacramento Kings vs Houston Rockets (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181248
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 San Antonio Spurs vs Toronto Raptors (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",18:30 San Antonio Spurs vs Toronto Raptors (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181249
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Golden State Warriors vs Memphis Grizzlies (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",18:30 Golden State Warriors vs Memphis Grizzlies (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181250
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Oklahoma City Thunder vs Detroit Pistons (Z)" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",18:30 Oklahoma City Thunder vs Detroit Pistons (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181251
+
+#EXTINF:-1 tvg-id="" tvg-name="18:15 Godoy Cruz vs Deportivo Morón (Copa Argentina) (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",18:15 Godoy Cruz vs Deportivo Morón (Copa Argentina) (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181252
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 Turks & Caicos Islands U20 vs Jamaica U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",18:00 Turks & Caicos Islands U20 vs Jamaica U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181253
+
+#EXTINF:-1 tvg-id="" tvg-name="18:00 FC Cincinnati vs O&M FC (Z)" tvg-logo="https://i.imgur.com/o1PFJIN.png" group-title="EVENTOS PPV",18:00 FC Cincinnati vs O&M FC (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181254
+
+#EXTINF:-1 tvg-id="" tvg-name="16:30 Vélez Sarsfield vs Deportivo Riestra (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",16:30 Vélez Sarsfield vs Deportivo Riestra (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181255
+
+#EXTINF:-1 tvg-id="" tvg-name="16:30 Newell's Old Boys vs Estudiantes de La Plata (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",16:30 Newell's Old Boys vs Estudiantes de La Plata (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181256
+
+#EXTINF:-1 tvg-id="" tvg-name="15:00 Puerto Rico U20 vs Bonaire U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",15:00 Puerto Rico U20 vs Bonaire U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181257
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Dominica U20 vs Dominican Republic U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",14:00 Dominica U20 vs Dominican Republic U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181258
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 San Martín de San Juan vs Deportivo Madryn (Copa Argentina) (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",14:00 San Martín de San Juan vs Deportivo Madryn (Copa Argentina) (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181259
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Gimnasia y Esgrima vs Rosario Central (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",14:00 Gimnasia y Esgrima vs Rosario Central (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181260
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Barracas Central vs Tigre (Z)" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="EVENTOS PPV",14:00 Barracas Central vs Tigre (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181261
+
+#EXTINF:-1 tvg-id="" tvg-name="13:00 Al-Najma SC vs Al-Nassr (Z)" tvg-logo="https://i.imgur.com/0FW4z3J.png" group-title="EVENTOS PPV",13:00 Al-Najma SC vs Al-Nassr (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181262
+
+#EXTINF:-1 tvg-id="" tvg-name="12:00 Saint Kitts and Nevis U20 vs Cayman Islands U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",12:00 Saint Kitts and Nevis U20 vs Cayman Islands U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181263
+
+#EXTINF:-1 tvg-id="" tvg-name="12:00 AD Ceuta vs Córdoba (Z)" tvg-logo="https://i.imgur.com/g7qX5oN.png" group-title="EVENTOS PPV",12:00 AD Ceuta vs Córdoba (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181264
+
+#EXTINF:-1 tvg-id="" tvg-name="11:00 Antigua and Barbuda U20 vs British Virgin Islands U20 (Z)" tvg-logo="https://i.imgur.com/xhblDks.png" group-title="EVENTOS PPV",11:00 Antigua and Barbuda U20 vs British Virgin Islands U20 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181265
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Real Madrid vs Benfica op2 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Real Madrid vs Benfica op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181266
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Real Madrid vs Benfica op1 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Real Madrid vs Benfica op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181267
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Paris Saint-Germain vs AS Monaco op2 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Paris Saint-Germain vs AS Monaco op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181268
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Paris Saint-Germain vs AS Monaco op1 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Paris Saint-Germain vs AS Monaco op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181269
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Juventus vs Galatasaray op2 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Juventus vs Galatasaray op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181270
+
+#EXTINF:-1 tvg-id="" tvg-name="14:00 Juventus vs Galatasaray op1 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",14:00 Juventus vs Galatasaray op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181271
+
+#EXTINF:-1 tvg-id="" tvg-name="11:45 Atalanta vs Borussia Dortmund op2 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",11:45 Atalanta vs Borussia Dortmund op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181272
+
+#EXTINF:-1 tvg-id="" tvg-name="11:45 Atalanta vs Borussia Dortmund op1 (Z)" tvg-logo="https://i.imgur.com/xIlpxNf.png" group-title="EVENTOS PPV",11:45 Atalanta vs Borussia Dortmund op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181273
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Botafogo vs Nacional Potosí op2 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",18:30 Botafogo vs Nacional Potosí op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181274
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Botafogo vs Nacional Potosí op1 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",18:30 Botafogo vs Nacional Potosí op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181275
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Argentinos Juniors vs Barcelona SC Guayaquil op2 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",18:30 Argentinos Juniors vs Barcelona SC Guayaquil op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181276
+
+#EXTINF:-1 tvg-id="" tvg-name="18:30 Argentinos Juniors vs Barcelona SC Guayaquil op1 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",18:30 Argentinos Juniors vs Barcelona SC Guayaquil op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181277
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 Bahia vs O'Higgins op2 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",16:00 Bahia vs O'Higgins op2 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181278
+
+#EXTINF:-1 tvg-id="" tvg-name="16:00 Bahia vs O'Higgins op1 (Z)" tvg-logo="https://i.imgur.com/PEWvFD2.png" group-title="EVENTOS PPV",16:00 Bahia vs O'Higgins op1 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181279
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
