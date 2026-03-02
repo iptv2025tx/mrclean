@@ -387,7 +387,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179028
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)" tvg-logo="https://i.postimg.cc/43917vbZ/247-Dragon-Ball-GT-Saga-Super-Android-17.png" group-title="24/7 ANIME",24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179026
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes (e)(720)" tvg-logo="https://i.postimg.cc/bN1GXDvy/247-Dragon-Ball-Heroes.png" group-title="24/7 ANIME",24/7 Dragon Ball Heroes (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes (e)(1080)" tvg-logo="https://i.postimg.cc/bN1GXDvy/247-Dragon-Ball-Heroes.png" group-title="24/7 ANIME",24/7 Dragon Ball Heroes (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179036
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)" tvg-logo="https://i.postimg.cc/XJjsyG2X/247-Dragon-Ball-Super-Saga-Golden-Freezer.png" group-title="24/7 ANIME",24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
@@ -2418,9 +2418,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160807
 #EXTINF:-1 tvg-id="" tvg-name="COL-Canica TV (240p)" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="COLOMBIA (LOCAL)",COL-Canica TV (240p)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160810
 
-#EXTINF:-1 tvg-id="" tvg-name="COL-CNC Bugavisión (W)(720)" tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="COLOMBIA (LOCAL)",COL-CNC Bugavisión (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160815
-
 #EXTINF:-1 tvg-id="" tvg-name="COL-CNC Santander de Quilichao (W)(SD)" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="COLOMBIA (LOCAL)",COL-CNC Santander de Quilichao (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160821
 
@@ -3246,9 +3243,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175888
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Bacán Te Veo (W)(SD)" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="ECUADOR-LOCAL",ECU-Bacán Te Veo (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175889
 
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Sur (W)(720)" tvg-logo="https://i.imgur.com/LMoIpU2.jpg" group-title="ECUADOR-LOCAL",ECU-Canal Sur (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175890
-
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Ciracu TV (W)(720)" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="ECUADOR-LOCAL",ECU-Ciracu TV (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175892
 
@@ -3273,9 +3267,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175903
 #EXTINF:-1 tvg-id="" tvg-name="ECU-El Sol Network TV (W)(1080)" tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="ECUADOR-LOCAL",ECU-El Sol Network TV (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175906
 
-#EXTINF:-1 tvg-id="" tvg-name="ECU-FX Latin America (W)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="ECUADOR-LOCAL",ECU-FX Latin America (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175908
-
 #EXTINF:-1 tvg-id="" tvg-name="ECU-GM7 Digital (W)(SD)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg" group-title="ECUADOR-LOCAL",ECU-GM7 Digital (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175910
 
@@ -3284,12 +3275,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175911
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-IeanJesus Ecuador (W)(720)" tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="ECUADOR-LOCAL",ECU-IeanJesus Ecuador (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175912
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Infinita TV (W)(1080)" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="ECUADOR-LOCAL",ECU-Infinita TV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175914
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU-La Nueva Radio TV 97.7 (W)(1080)" tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="ECUADOR-LOCAL",ECU-La Nueva Radio TV 97.7 (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175917
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Latacunga TV (W)(SD)" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="ECUADOR-LOCAL",ECU-Latacunga TV (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175919
@@ -3314,9 +3299,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175928
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Multicanal Catamayo (W)(720)" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="ECUADOR-LOCAL",ECU-Multicanal Catamayo (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175929
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Nick Jr. Latin America (480p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="ECUADOR-LOCAL",ECU-Nick Jr. Latin America (480p)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175930
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Nortvisión (W)(720)" tvg-logo="https://i.imgur.com/MLzcPgT.jpg" group-title="ECUADOR-LOCAL",ECU-Nortvisión (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175932
@@ -3348,14 +3330,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175943
 #EXTINF:-1 tvg-id="" tvg-name="ECU-Radio Impacto 2 (288p) (W)(SD)" tvg-logo="https://i.imgur.com/YvK1hm7.png" group-title="ECUADOR-LOCAL",ECU-Radio Impacto 2 (288p) (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175944
 
-#EXTINF:-1 tvg-id="" tvg-name="ECU-Radio Monumental TV (W)(720)" tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="ECUADOR-LOCAL",ECU-Radio Monumental TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175946
-
 #EXTINF:-1 tvg-id="" tvg-name="ECU-RTRTV (W)(1080)" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="ECUADOR-LOCAL",ECU-RTRTV (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175948
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU-RTS (W)(SD)" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR-LOCAL",ECU-RTS (W)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175949
 
 #EXTINF:-1 tvg-id="" tvg-name="ECU-TV Color Canal 36 (W)(720)" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="ECUADOR-LOCAL",ECU-TV Color Canal 36 (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175958
@@ -4038,9 +4014,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10269
 #EXTINF:-1 tvg-id="" tvg-name="HON-Kerusso TV (W)(720)" tvg-logo="https://i.imgur.com/S79uof0.png" group-title="HONDURAS",HON-Kerusso TV (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/159392
 
-#EXTINF:-1 tvg-id="" tvg-name="HON-La Top 102.9 (W)(720)" tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="HONDURAS",HON-La Top 102.9 (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/159394
-
 #EXTINF:-1 tvg-id="" tvg-name="HON-Lenca Television Canal 40 (W)(720)" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="HONDURAS",HON-Lenca Television Canal 40 (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/159396
 
@@ -4371,21 +4344,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164658
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Monte Maria (W)(1080)" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="MEXICO-LOCAL",MEX-Monte Maria (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164661
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Bajío (W)(720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Bajío (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164662
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Guadalajara (W)(720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Guadalajara (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164664
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Laguna (W)(720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Laguna (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164665
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Monterrey (W)(720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Monterrey (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164666
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Puebla (W)(720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Puebla (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164667
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX-MyTime Movie Network Mexico (W)(720)" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="MEXICO-LOCAL",MEX-MyTime Movie Network Mexico (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164670
 
@@ -4431,9 +4389,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164695
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Sistema Michoacano de TV (W)(1080)" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="MEXICO-LOCAL",MEX-Sistema Michoacano de TV (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164697
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-SIZART Canal 24 (XHZHZ-TDT) (W)(720)" tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="MEXICO-LOCAL",MEX-SIZART Canal 24 (XHZHZ-TDT) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164698
-
 #EXTINF:-1 tvg-id="" tvg-name="MEX-SQCS Canal 4 (W)(1080)" tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="MEXICO-LOCAL",MEX-SQCS Canal 4 (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164700
 
@@ -4445,9 +4400,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164707
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Teleplay Sureste (W)(720)" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="MEXICO-LOCAL",MEX-Teleplay Sureste (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164708
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Teleritmo (W)(720)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="MEXICO-LOCAL",MEX-Teleritmo (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164709
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",MEX-Televisa Monterrey (L)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87605
@@ -4463,9 +4415,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/87590
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-TV Azteca Noreste (Info7 Monterrey) (W)(720)" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="MEXICO-LOCAL",MEX-TV Azteca Noreste (Info7 Monterrey) (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164715
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV BUAP (W)(1080)" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="MEXICO-LOCAL",MEX-TV BUAP (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164716
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-TV Cuatro 4.1 (W)(1080)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO-LOCAL",MEX-TV Cuatro 4.1 (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164717
@@ -6252,12 +6201,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160484
 #EXTINF:-1 tvg-id="" tvg-name="VEN-Catatumbo TV (W)(SD)" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="VENEZUELA",VEN-Catatumbo TV (W)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160491
 
-#EXTINF:-1 tvg-id="" tvg-name="VEN-Disney Channel Latin America (W)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="VENEZUELA",VEN-Disney Channel Latin America (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160493
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN-GlobalTV (W)(SD)" tvg-logo="https://imgur.com/hzM9D9L.jpg" group-title="VENEZUELA",VEN-GlobalTV (W)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160497
-
 #EXTINF:-1 tvg-id="" tvg-name="VEN-Globovision (Z)(HQ)" tvg-logo="" group-title="VENEZUELA",VEN-Globovision (Z)(HQ)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/13014
 
@@ -6813,206 +6756,266 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181940
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)(720)" tvg-logo="https://i.postimg.cc/KzrGbPrN/247-Naruto-(e)(720).png" group-title="24/7 ANIME",24/7 Naruto (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181941
 
-#EXTINF:-1 tvg-id="" tvg-name="Expansión MX | 16:00 Tlaxcala vs Tepatitlán (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Expansión MX | 16:00 Tlaxcala vs Tepatitlán (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182158
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 11:00 Sint Maarten vs. Trinidad & Tobago (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 11:00 Sint Maarten vs. Trinidad & Tobago (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182380
 
-#EXTINF:-1 tvg-id="" tvg-name="Copa SheBelieves | 16:00 EE. UU. vs Argentina (L)" tvg-logo="https://www.stoneward.com/wp-content/themes/timberland/assets/images/static/she-believes/she-believes-logo.png" group-title="EVENTOS PPV",Copa SheBelieves | 16:00 EE. UU. vs Argentina (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182164
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 14:00 Bermudas vs. Costa Rica (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 14:00 Bermudas vs. Costa Rica (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182381
 
-#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:15 Instituto vs Unión (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:15 Instituto vs Unión (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182189
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 15:00 Anguilla vs. Curacao (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 15:00 Anguilla vs. Curacao (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182382
 
-#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:15 Argentinos Juniors vs Barracas Central (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:15 Argentinos Juniors vs Barracas Central (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182190
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 16:00 Islas Vírgenes de los Estados Unidos vs. Nicaragua (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 16:00 Islas Vírgenes de los Estados Unidos vs. Nicaragua (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182383
 
-#EXTINF:-1 tvg-id="" tvg-name="Arg | 18:30 Tigre vs Gimnasia La Plata (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 18:30 Tigre vs Gimnasia La Plata (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182191
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 18:00 Guyana vs. Haiti (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 18:00 Guyana vs. Haiti (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182384
 
-#EXTINF:-1 tvg-id="" tvg-name="Arg | 18:30 Defensa y Justicia vs Lanús (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 18:30 Defensa y Justicia vs Lanús (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182192
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Under-20 | 19:00 Aruba vs. Canadá (L)" tvg-logo="https://qa.concacaf.com/media/oqemkx0g/cu20c.png" group-title="EVENTOS PPV",Concacaf Under-20 | 19:00 Aruba vs. Canadá (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182385
 
-#EXTINF:-1 tvg-id="" tvg-name="Colombia | 17:10 Deportivo Cali vs Fortaleza CEIF (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 17:10 Deportivo Cali vs Fortaleza CEIF (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182195
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship | 13:00 Santa Lucía vs. México (L)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2401.png" group-title="EVENTOS PPV",Concacaf W Championship | 13:00 Santa Lucía vs. México (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182386
 
-#EXTINF:-1 tvg-id="" tvg-name="Colombia | 19:30 Deportes Tolima vs Atlético Nacional (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 19:30 Deportes Tolima vs Atlético Nacional (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182196
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship | 18:00 Nicaragua vs. Jamaica (L)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2401.png" group-title="EVENTOS PPV",Concacaf W Championship | 18:00 Nicaragua vs. Jamaica (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182387
 
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 15:00 Achuapa vs Cobán Imperial (L)" tvg-logo="https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png" group-title="EVENTOS PPV",Guatemala | 15:00 Achuapa vs Cobán Imperial (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182197
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 14:00 Real Madrid vs.Getafe CF (L)" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 14:00 Real Madrid vs.Getafe CF (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182388
 
-#EXTINF:-1 tvg-id="" tvg-name="Perú | 17:00 Universitario vs FC Cajamarca (L)" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú | 17:00 Universitario vs FC Cajamarca (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182203
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 11:30 Pisa vs. Bologna (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 11:30 Pisa vs. Bologna (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182389
 
-#EXTINF:-1 tvg-id="" tvg-name="MLS | 15:30 Philadelphia vs. New York City (L)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/03/mlslogo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLS | 15:30 Philadelphia vs. New York City (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182210
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 13:45 Udinese vs. Fiorentina (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13085.png" group-title="EVENTOS PPV",Serie A | 13:45 Udinese vs. Fiorentina (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182390
 
-#EXTINF:-1 tvg-id="" tvg-name="MLS | 18:00 Orlando vs. Miami Español (L)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/03/mlslogo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLS | 18:00 Orlando vs. Miami Español (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182211
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:15 Estudiantes vs Vélez Sarsfield (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:15 Estudiantes vs Vélez Sarsfield (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182391
 
-#EXTINF:-1 tvg-id="" tvg-name="MLS | 18:00 Orlando vs. Miami Ingles (L)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/03/mlslogo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLS | 18:00 Orlando vs. Miami Ingles (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182212
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:15 Deportivo Riestra vs Platense (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:15 Deportivo Riestra vs Platense (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182392
 
-#EXTINF:-1 tvg-id="" tvg-name="MLS | 20:15 San Diego vs. St. Louis (L)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/03/mlslogo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLS | 20:15 San Diego vs. St. Louis (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182213
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 18:30 Independiente Rivadavia vs River Plate (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 18:30 Independiente Rivadavia vs River Plate (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182393
 
-#EXTINF:-1 tvg-id="" tvg-name="BFA Premier League | 16:00 Brittons Hill FC vs Wotton FC (L)" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/comp/82061861.png" group-title="EVENTOS PPV",BFA Premier League | 16:00 Brittons Hill FC vs Wotton FC (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182222
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 18:30 Banfield vs Aldosivi (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 18:30 Banfield vs Aldosivi (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182394
 
-#EXTINF:-1 tvg-id="" tvg-name="BFA Premier League | 18:00 Weymouth Wales vs UWI Blackbirds (L)" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/comp/82061861.png" group-title="EVENTOS PPV",BFA Premier League | 18:00 Weymouth Wales vs UWI Blackbirds (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182223
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 14:00 Birmingham City vs. Middlesbrough (L)" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 14:00 Birmingham City vs. Middlesbrough (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182395
 
-#EXTINF:-1 tvg-id="" tvg-name="Camp Paulista | 17:30 Palmeiras vs São Paulo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" group-title="EVENTOS PPV",Camp Paulista | 17:30 Palmeiras vs São Paulo (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182224
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 13:30 Córdoba vs FC Andorra (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS PPV",LaLiga SmartBank | 13:30 Córdoba vs FC Andorra (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182396
 
-#EXTINF:-1 tvg-id="" tvg-name="Camp Gaúcho | 15:00 Grêmio vs Internacional (L)" tvg-logo="https://p7.hiclipart.com/preview/88/747/581/campeonato-gaucho-federacao-gaucha-de-futebol-football-gremio-foot-ball-porto-alegrense-sport-club-internacional-rs-logo.jpg" group-title="EVENTOS PPV",Camp Gaúcho | 15:00 Grêmio vs Internacional (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182225
+#EXTINF:-1 tvg-id="" tvg-name="Uruguayo | 17:00 Deportivo Maldonado vs. Juventud (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="EVENTOS PPV",Uruguayo | 17:00 Deportivo Maldonado vs. Juventud (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182397
 
-#EXTINF:-1 tvg-id="" tvg-name="Chile | 17:30 Ñublense vs Universidad Católica (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="EVENTOS PPV",Chile | 17:30 Ñublense vs Universidad Católica (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182228
+#EXTINF:-1 tvg-id="" tvg-name="Arg Torneo Res | 14:00 Gimnasia La Plata Res. vs Argentinos Juniors Res. (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Arg Torneo Res | 14:00 Gimnasia La Plata Res. vs Argentinos Juniors Res. (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182398
 
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | 15:00 Guadalupe vs Deportivo Saprissa (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS PPV",Costa Rica | 15:00 Guadalupe vs Deportivo Saprissa (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182229
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca | 18:00 Madureira vs Flamengo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca | 18:00 Madureira vs Flamengo (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182399
 
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | 18:00 Municipal Liberia vs Sporting San José (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS PPV",Costa Rica | 18:00 Municipal Liberia vs Sporting San José (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182230
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador | 18:30 Manta vs Independiente del Valle (L)" tvg-logo="https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png" group-title="EVENTOS PPV",Ecuador | 18:30 Manta vs Independiente del Valle (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182400
 
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | 19:00 San Carlos vs Cartaginés (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS PPV",Costa Rica | 19:00 San Carlos vs Cartaginés (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182231
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | 15:00 Policía Nacional vs UPNFM (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 15:00 Policía Nacional vs UPNFM (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182401
 
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador | 16:00 Deportivo Cuenca vs Barcelona (L)" tvg-logo="https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png" group-title="EVENTOS PPV",Ecuador | 16:00 Deportivo Cuenca vs Barcelona (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182234
+#EXTINF:-1 tvg-id="" tvg-name="OFC Pro League | 22:00 Tahiti United vs PNG Hekari FC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",OFC Pro League | 22:00 Tahiti United vs PNG Hekari FC (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182402
 
-#EXTINF:-1 tvg-id="" tvg-name="Honduras | 17:15 Motagua vs Olancho (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 17:15 Motagua vs Olancho (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182241
+#EXTINF:-1 tvg-id="" tvg-name="Polonia | 12:00 Zagłębie Lubin vs Wisła Płock (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_ekstraklasa.png" group-title="EVENTOS PPV",Polonia | 12:00 Zagłębie Lubin vs Wisła Płock (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182403
 
-#EXTINF:-1 tvg-id="" tvg-name="Honduras | 19:30 Platense vs Real España (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 19:30 Platense vs Real España (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182242
+#EXTINF:-1 tvg-id="" tvg-name="13:00 NCAA Baseball Toledo vs.Lipscomb (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",13:00 NCAA Baseball Toledo vs.Lipscomb (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182404
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 15:00 Jalapa vs Diriangén (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 15:00 Jalapa vs Diriangén (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182243
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Baseball Ohio vs.Dayton (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Baseball Ohio vs.Dayton (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182405
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 15:00 Rancho Santana FC vs Matagalpa FC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 15:00 Rancho Santana FC vs Matagalpa FC (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182244
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Baseball Utah vs.Loyola Marymount (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Baseball Utah vs.Loyola Marymount (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182406
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 17:00 Real Madriz FC vs CD Walter Ferretti (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 17:00 Real Madriz FC vs CD Walter Ferretti (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182245
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Baseball Holy Cross vs.Seattle U (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Baseball Holy Cross vs.Seattle U (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182407
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua | 20:00 UNAN-Managua vs Real Estelí (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Liga_Nicarag%C3%BCense_de_Futbol_logo.jpg" group-title="EVENTOS PPV",Nicaragua | 20:00 UNAN-Managua vs Real Estelí (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182246
+#EXTINF:-1 tvg-id="" tvg-name="15:00 NCAA Mens Basketball South Carolina State vs.Delaware State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",15:00 NCAA Mens Basketball South Carolina State vs.Delaware State (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182408
 
-#EXTINF:-1 tvg-id="" tvg-name="TT Premier League | 15:00  Morvant Caledonia Utd vs San Juan Jabloteh (L)" tvg-logo="https://pbs.twimg.com/profile_images/880163707233255424/-Bd_EBtj_400x400.jpg" group-title="EVENTOS PPV",TT Premier League | 15:00  Morvant Caledonia Utd vs San Juan Jabloteh (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182249
+#EXTINF:-1 tvg-id="" tvg-name="16:00 NCAA Womens Basketball Incarnate Word vs.UT Rio Grande Valley (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",16:00 NCAA Womens Basketball Incarnate Word vs.UT Rio Grande Valley (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182409
 
-#EXTINF:-1 tvg-id="" tvg-name="Clasif Mundial Fem | 18:00 New Caledonia vs Vanuatu (L)" tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2026/01/1000597340.jpg" group-title="EVENTOS PPV",Clasif Mundial Fem | 18:00 New Caledonia vs Vanuatu (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182250
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Mens Basketball Stephen F.Austin vs.Incarnate Word (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Mens Basketball Stephen F.Austin vs.Incarnate Word (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182410
 
-#EXTINF:-1 tvg-id="" tvg-name="Clasif Mundial Fem | 20:00 Samoa Estadounidense vs Samoa (L)" tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2026/01/1000597340.jpg" group-title="EVENTOS PPV",Clasif Mundial Fem | 20:00 Samoa Estadounidense vs Samoa (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182251
+#EXTINF:-1 tvg-id="" tvg-name="17:00 NCAA Womens Basketball Texas A&M-Corpus Christi vs.Houston Christian (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",17:00 NCAA Womens Basketball Texas A&M-Corpus Christi vs.Houston Christian (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182411
 
-#EXTINF:-1 tvg-id="" tvg-name="Clasif Mundial Fem | 22:00 Papua New Guinea vs Fiji (L)" tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2026/01/1000597340.jpg" group-title="EVENTOS PPV",Clasif Mundial Fem | 22:00 Papua New Guinea vs Fiji (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182252
+#EXTINF:-1 tvg-id="" tvg-name="18:00 NCAA Mens Basketball IU Indianapolis vs.Cleveland State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:00 NCAA Mens Basketball IU Indianapolis vs.Cleveland State (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182412
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | 12:00 Knicks vs Spurs (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | 12:00 Knicks vs Spurs (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182265
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Mens Basketball Northwestern State vs.UT Rio Grande Valley (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Mens Basketball Northwestern State vs.UT Rio Grande Valley (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182413
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | 14:30 Nuggets vs Timberwolves (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 04 | 14:30 Nuggets vs Timberwolves (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182268
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball Stephen F.Austin vs.McNeese (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball Stephen F.Austin vs.McNeese (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182414
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05 | 16:00 Pacers vs Grizzlies (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 05 | 16:00 Pacers vs Grizzlies (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182269
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball Southern Illinois vs.Belmont (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball Southern Illinois vs.Belmont (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182415
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06 | 17:00 Hawks vs Trail Blazers (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 06 | 17:00 Hawks vs Trail Blazers (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182270
+#EXTINF:-1 tvg-id="" tvg-name="18:30 NCAA Womens Basketball SE Louisiana vs.Lamar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",18:30 NCAA Womens Basketball SE Louisiana vs.Lamar
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182416
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07 | 17:00 Magic vs Pistons (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 07 | 17:00 Magic vs Pistons (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182271
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball Montana State vs.Northern Arizona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball Montana State vs.Northern Arizona
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182417
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | 19:00 Celtics vs 76ers (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 08 | 19:00 Celtics vs 76ers (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182272
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball East Texas A&M vs.Texas A&M-Corpus Christi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball East Texas A&M vs.Texas A&M-Corpus Christi
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182418
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09 | 19:00 Mavericks vs Thunder (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 09 | 19:00 Mavericks vs Thunder (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182273
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Womens Basketball Detroit Mercy vs.Milwaukee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Womens Basketball Detroit Mercy vs.Milwaukee
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182419
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 10 | 20:00 Clippers vs Pelicans (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 10 | 20:00 Clippers vs Pelicans (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182274
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Womens Basketball Portland State vs.Weber State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Womens Basketball Portland State vs.Weber State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182420
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 11 | 20:30 Lakers vs Kings (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 11 | 20:30 Lakers vs Kings (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182275
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball SE Louisiana vs.New Orleans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball SE Louisiana vs.New Orleans
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182421
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 13:00 Athletes Unlimited Basketball Eclipse vs.Rhythm (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Athletes_unlimited_logo.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 13:00 Athletes Unlimited Basketball Eclipse vs.Rhythm (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182276
+#EXTINF:-1 tvg-id="" tvg-name="19:00 NCAA Mens Basketball Montana vs.Northern Colorado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:00 NCAA Mens Basketball Montana vs.Northern Colorado
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182422
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 15:30 Athletes Unlimited Basketball Glow vs.Gold Rush (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Athletes_unlimited_logo.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 15:30 Athletes Unlimited Basketball Glow vs.Gold Rush (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182277
+#EXTINF:-1 tvg-id="" tvg-name="19:30 NCAA Mens Basketball Lamar vs.Houston Christian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",19:30 NCAA Mens Basketball Lamar vs.Houston Christian
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182423
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 07:30 Clasif Mundial Netherlands vs. Austria (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13039.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 07:30 Clasif Mundial Netherlands vs. Austria (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182278
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball Sacramento State vs.Idaho State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball Sacramento State vs.Idaho State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182424
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 10:30 Clasif Mundial Finland vs. Belgium (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13040.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 10:30 Clasif Mundial Finland vs. Belgium (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182279
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball Northern Colorado vs.Montana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball Northern Colorado vs.Montana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182425
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Cyprus vs. Israel (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13045.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Cyprus vs. Israel (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182280
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball Northern Arizona vs.Montana State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball Northern Arizona vs.Montana State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182426
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Czechia vs. Slovenia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13042.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Czechia vs. Slovenia (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182281
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Mens Basketball Idaho vs.Eastern Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Mens Basketball Idaho vs.Eastern Washington
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182427
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Estonia vs. Sweden (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13041.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Estonia vs. Sweden (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182282
+#EXTINF:-1 tvg-id="" tvg-name="20:00 NCAA Womens Basketball Eastern Washington vs.Idaho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",20:00 NCAA Womens Basketball Eastern Washington vs.Idaho
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182428
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial France vs. Hungary (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13043.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial France vs. Hungary (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182283
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NCAA Mens Basketball Idaho State vs.Sacramento State" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",21:00 NCAA Mens Basketball Idaho State vs.Sacramento State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182429
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Germany vs. Croatia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13044.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Germany vs. Croatia (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182284
+#EXTINF:-1 tvg-id="" tvg-name="21:00 NCAA Mens Basketball Weber State vs.Portland State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",21:00 NCAA Mens Basketball Weber State vs.Portland State (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182430
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:00 Clasif Mundial Madagascar vs. Côte d'Ivoire (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13134.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:00 Clasif Mundial Madagascar vs. Côte d'Ivoire (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182285
+#EXTINF:-1 tvg-id="" tvg-name="13:00 NCAA Mens Lacrosse Merrimack vs.Providence (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",13:00 NCAA Mens Lacrosse Merrimack vs.Providence (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182431
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:00 Clasif Mundial Mali vs. Angola (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13094.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:00 Clasif Mundial Mali vs. Angola (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182286
+#EXTINF:-1 tvg-id="" tvg-name="14:00 NCAA Womens Lacrosse Holy Cross vs.Dartmouth (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",14:00 NCAA Womens Lacrosse Holy Cross vs.Dartmouth (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182432
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 13:30  Clasif Mundial Poland vs. Latvia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13046.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 13:30  Clasif Mundial Poland vs. Latvia (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182287
+#EXTINF:-1 tvg-id="" tvg-name="10:15 NCAA Track & Field MVC Indoor Track and Field Championship (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTO NCAA (SOLO EVENTOS)",10:15 NCAA Track & Field MVC Indoor Track and Field Championship (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182433
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 15:00  Clasif Mundial Senegal vs. Congo DR (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13095.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 15:00  Clasif Mundial Senegal vs. Congo DR (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182288
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01 | 12:05  Tampa Bay Rays vs Pittsburgh Pirates (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 01 | 12:05  Tampa Bay Rays vs Pittsburgh Pirates (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182434
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 15:00  Clasif Mundial Uganda vs. Egypt (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13108.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 15:00  Clasif Mundial Uganda vs. Egypt (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182289
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02 | 12:05 Atlanta Braves vs Detroit Tigers (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 02 | 12:05 Atlanta Braves vs Detroit Tigers (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182435
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 16:00  Clasif Mundial Puerto Rico vs. Bahamas (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12948.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 16:00  Clasif Mundial Puerto Rico vs. Bahamas (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182290
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03 | 12:07 Boston Red Sox vs Toronto Blue Jays (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 03 | 12:07 Boston Red Sox vs Toronto Blue Jays (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182436
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 17:00  Clasif Mundial Jamaica vs. Canada (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12938.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 17:00  Clasif Mundial Jamaica vs. Canada (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182291
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04 | 14:05 Chicago Cubs vs Cincinnati Reds (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 04 | 14:05 Chicago Cubs vs Cincinnati Reds (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182437
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 18:10  Clasif Mundial United States v Mexico (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13127.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 18:10  Clasif Mundial United States v Mexico (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182292
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05 | 14:10 Los Angeles Dodgers vs Colorado Rockies (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 05 | 14:10 Los Angeles Dodgers vs Colorado Rockies (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182438
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket | 19:30  Clasif Mundial Nicaragua vs. Dominican Republic (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12939.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 19:30  Clasif Mundial Nicaragua vs. Dominican Republic (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182293
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06 | 14:10 Athletics vs San Diego Padres (L)" tvg-logo="" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB 06 | 14:10 Athletics vs San Diego Padres (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182439
 
-#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | 16:00  St.Louis Blues vs.Minnesota Wild (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 04 | 16:00  St.Louis Blues vs.Minnesota Wild (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182297
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | 18:00 Wizards vs Rockets (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | 18:00 Wizards vs Rockets (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182440
 
-#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | 17:30 New York Islanders vs Florida Panthers (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 05 | 17:30 New York Islanders vs Florida Panthers (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182298
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | 18:30 Bucks vs Celtics (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 02 | 18:30 Bucks vs Celtics (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182441
 
-#EXTINF:-1 tvg-id="" tvg-name="NHL 06 | Calgary Flames vs.Anaheim Ducks (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 06 | Calgary Flames vs.Anaheim Ducks (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182299
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | 20:00 Jazz vs Nuggets (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 03 | 20:00 Jazz vs Nuggets (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182442
 
-#EXTINF:-1 tvg-id="" tvg-name="WTA | 17:00 Mérida | WTA 500 (Final) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 17:00 Mérida | WTA 500 (Final) (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182303
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | 21:00 Clippers vs. Warriors (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 04 | 21:00 Clippers vs. Warriors (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182443
 
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 06:45 PGA TOUR Cognizant Classic in The Palm Beaches Main Feed (L)" tvg-logo="https://res.cloudinary.com/pgatour-prod/d_tournaments:logos:R000.png/tournaments/logos/R010.png" group-title="EVENTOS PPV",Golf | 06:45 PGA TOUR Cognizant Classic in The Palm Beaches Main Feed (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182304
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 07:00 Clasif Mundial Iraq vs. Jordan (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12940.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 07:00 Clasif Mundial Iraq vs. Jordan (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182444
 
-#EXTINF:-1 tvg-id="" tvg-name="Motor |14:30 NASCAR DuraMax Grand Prix (L)" tvg-logo="https://reladyne.com/wp-content/uploads/2026/01/DuraMAX-Grand-Prix-PBR-Web-Page-Image-scaled.png" group-title="EVENTOS PPV",Motor |14:30 NASCAR DuraMax Grand Prix (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182312
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 10:00 Clasif Mundial Iran vs. Syria (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13096.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 10:00 Clasif Mundial Iran vs. Syria (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182445
 
-#EXTINF:-1 tvg-id="" tvg-name="USATF Indoor Champs: Day 2 12:00 (L)" tvg-logo="https://conferenceusa.com/images/2026/1/13/itfch26_150_400x200.png" group-title="EVENTOS PPV",USATF Indoor Champs: Day 2 12:00 (L)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182313
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 10:30 Clasif Mundial Lithuania vs. Iceland (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13047.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 10:30 Clasif Mundial Lithuania vs. Iceland (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182446
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Georgia vs. Denmark (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13048.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Georgia vs. Denmark (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182447
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 11:00 Clasif Mundial Romania vs. Portugal (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13053.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 11:00 Clasif Mundial Romania vs. Portugal (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182448
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:00 Clasif Mundial Montenegro vs. Greece (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13055.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:00 Clasif Mundial Montenegro vs. Greece (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182449
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:00 Clasif Mundial Türkiye vs. Serbia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13054.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:00 Clasif Mundial Türkiye vs. Serbia (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182450
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:00 Clasif Mundial Switzerland vs. Bosnia-Herzegovina (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13061.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:00 Clasif Mundial Switzerland vs. Bosnia-Herzegovina (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182451
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 12:30 Clasif Mundial Italy vs. Great Britain (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13056.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 12:30 Clasif Mundial Italy vs. Great Britain (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182452
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 13:00 Clasif Mundial Lebanon vs. India (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12971.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 13:00 Clasif Mundial Lebanon vs. India (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182453
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 13:00 Clasif Mundial Qatar vs. Saudi Arabia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13084.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 13:00 Clasif Mundial Qatar vs. Saudi Arabia (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182454
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 13:30 Clasif Mundial Spain vs. Ukraine (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event13062.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 13:30 Clasif Mundial Spain vs. Ukraine (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182455
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 15:30 Clasif Mundial Argentina vs. Panama (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12933.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 15:30 Clasif Mundial Argentina vs. Panama (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182456
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 16:00 Clasif Mundial Brazil vs. Colombia (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12993.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 16:00 Clasif Mundial Brazil vs. Colombia (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182457
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 17:00 Clasif Mundial Chile vs. Venezuela (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12995.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 17:00 Clasif Mundial Chile vs. Venezuela (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182458
+
+#EXTINF:-1 tvg-id="" tvg-name="Basket | 18:00 Clasif Mundial Cuba vs. Uruguay (L)" tvg-logo="http://199.188.74.126:58075/u=V1d4LDTV/p=0d37b9a1d9c6a82b4b24e8b244689b7d9e7926239ba4240a1163ced0224ae33f/logos/dazn-event12941.png" group-title="CLASIFICATORIAS MUNDIAL BASKET",Basket | 18:00 Clasif Mundial Cuba vs. Uruguay (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182459
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 13:00 Detroit Red Wings vs.Nashville Predators (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 01 | 13:00 Detroit Red Wings vs.Nashville Predators (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182460
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | 18:00 Columbus Blue Jackets vs.New York Rangers (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 02 | 18:00 Columbus Blue Jackets vs.New York Rangers (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182461
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 03 | 18:30 Philadelphia Flyers vs.Toronto Maple Leafs (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 03 | 18:30 Philadelphia Flyers vs.Toronto Maple Leafs (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182462
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | 21:00 Dallas Stars vs.Vancouver Canucks (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 04 | 21:00 Dallas Stars vs.Vancouver Canucks (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182463
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | 21:00 Carolina Hurricanes vs.Seattle Kraken (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 05 | 21:00 Carolina Hurricanes vs.Seattle Kraken (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182464
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL 06 | 21:30  Colorado Avalanche vs.Los Angeles Kings (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 06 | 21:30  Colorado Avalanche vs.Los Angeles Kings (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182465
+
+#EXTINF:-1 tvg-id="" tvg-name="Golf | TGL Los Angeles GC - New York GC (L)" tvg-logo="https://s47295.pcdn.co/wp-content/uploads/2025/05/TGL_Logo_RGB_VRT_POSITIVE-246x300.png" group-title="EVENTOS PPV",Golf | TGL Los Angeles GC - New York GC (L)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/182466
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
