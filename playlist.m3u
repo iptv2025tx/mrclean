@@ -6,7 +6,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 1 - (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178774
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 2 - (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - WWE (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 2 - WWE (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV 3 - (E)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 3 - (E)(1080)
@@ -6950,6 +6950,15 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184999
 
 #EXTINF:-1 tvg-id="" tvg-name="Rugby | Six Natiosn 14:10 Ireland v. Wales (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Six_Nations_Championship.png" group-title="EVENTOS PPV",Rugby | Six Natiosn 14:10 Ireland v. Wales (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185000
+
+#EXTINF:-1 tvg-id="" tvg-name="CMLL Lucha Libre" tvg-logo="" group-title="EVENTOS PPV",CMLL Lucha Libre
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185170
+
+#EXTINF:-1 tvg-id="" tvg-name="LMS | 19:00 Bravas vs Diablas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Liga_Mexicana_de_Softbol_logo.jpg" group-title="EVENTOS PPV",LMS | 19:00 Bravas vs Diablas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185171
+
+#EXTINF:-1 tvg-id="" tvg-name="LMS | 19:00 Union Laguna vs Charras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Liga_Mexicana_de_Softbol_logo.jpg" group-title="EVENTOS PPV",LMS | 19:00 Union Laguna vs Charras
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185172
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
