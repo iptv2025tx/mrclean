@@ -5175,9 +5175,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180741
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180742
 
-#EXTINF:-1 tvg-id="" tvg-name="BRA-Cinemax (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cinemax (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180743
-
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Comedy Central (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Comedy Central (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180745
 
@@ -7403,6 +7400,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186476
 
 #EXTINF:-1 tvg-id="" tvg-name="03/10 World Baseball 06:00am Czech Republic vs Japan (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/960px-WBC_logo.svg.png?_=20250724125512" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",03/10 World Baseball 06:00am Czech Republic vs Japan (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186477
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(SD)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186478
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
