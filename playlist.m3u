@@ -15,6 +15,15 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
 #EXTINF:-1 tvg-id="" tvg-name="PPV 4 - Botafogo Vs. Barcelona (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 4 - Botafogo Vs. Barcelona (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178777
 
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - encoder New (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - encoder New (e)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185769
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(720)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185770
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(SD)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186478
+
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-name="DEPORTES - Espn 1 ARG (i)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9520
 
@@ -2751,29 +2760,20 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177728
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Western Clasicos 2 (e)(1080)" tvg-logo="https://image.roku.com/developer_channels/prod/1bc2a51056e2169b6ab171bc070cd61e82e82aade0006d21407fe57918c8db68.png" group-title="24/7 CINEMA ",24/7 Western Clasicos 2 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/177729
 
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Baños (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Baños (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179555
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Por ella soy Eva (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Por ella soy Eva (2012)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184008
 
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Cocina (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Cocina (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179556
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teresa (2010)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Teresa (2010)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184018
 
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Conexión Total 24/7 (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ede6942ecbaf66897c9a/6945659d59fe4992c285964a2e5cf570?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Conexión Total 24/7 (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179551
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tierra de Esperanza (2023)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Tierra de Esperanza (2023)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184028
 
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Habitación Corazón (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Habitación Corazón (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179553
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tres milagros (2018)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Tres milagros (2018)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184029
 
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Habitación Trébol (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Habitación Trébol (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179554
-
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Multicámaras (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Multicámaras (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179558
-
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Sala (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Sala (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179557
-
-#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Villa en vivo (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Villa en vivo (L)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179552
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rebelde (2004)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Rebelde (2004)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184031
 
 #EXTINF:-1 tvg-id="" tvg-name="CHI PPV 1 - (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="CHILE",CHI PPV 1 - (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9885
@@ -2933,6 +2933,219 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9934
 
 #EXTINF:-1 tvg-id="Canal.TVN.(Chile).sv" tvg-name="CHI-TVN (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-TVN (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84890
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13C (W)(1080)" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="CHILE [GEO BLOQUEO]",CHI-13C (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186492
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Entretención (W)(720)" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Entretención (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186493
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Festival (W)(1080)" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Festival (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186494
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Humor (W)(1080)" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Humor (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186495
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Kids (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186496
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Prime (W)(720)" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Prime (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186497
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Realities (W)(1080)" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Realities (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186498
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Teleseries (W)(720)" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Teleseries (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186499
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Antofagasta TV (ATV) (W)(1080)" tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="CHILE [GEO BLOQUEO]",CHI-Antofagasta TV (ATV) (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186501
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Atacama Noticias (W)(720)" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Atacama Noticias (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186503
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Atacama TV (Copiapó) (W)(720)" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="CHILE [GEO BLOQUEO]",CHI-Atacama TV (Copiapó) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186504
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Aysen TV (W)(720)" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="CHILE [GEO BLOQUEO]",CHI-Aysen TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186505
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Campus TV (Talca) (W)(720)" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="CHILE [GEO BLOQUEO]",CHI-Campus TV (Talca) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186507
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 9 Bío Bío Televisión (W)(1080)" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="CHILE [GEO BLOQUEO]",CHI-Canal 9 Bío Bío Televisión (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186509
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (W)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="CHILE [GEO BLOQUEO]",CHI-Canal 13 (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186510
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal ISB (Iglesia San Bernardo) (W)(720)" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="CHILE [GEO BLOQUEO]",CHI-Canal ISB (Iglesia San Bernardo) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186512
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chile Channel (W)(720)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="CHILE [GEO BLOQUEO]",CHI-Chile Channel (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186514
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ChileVision (W)(1080)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="CHILE [GEO BLOQUEO]",CHI-ChileVision (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186515
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chiloe Red 25 (W)(720)" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="CHILE [GEO BLOQUEO]",CHI-Chiloe Red 25 (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186516
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Click TV (Coronel) (W)(720)" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="CHILE [GEO BLOQUEO]",CHI-Click TV (Coronel) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186517
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Contivision (W)(720)" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Contivision (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186518
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Dance FM (W)(720)" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="CHILE [GEO BLOQUEO]",CHI-Dance FM (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186519
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Décima TV (Ancud) (W)(720)" tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="CHILE [GEO BLOQUEO]",CHI-Décima TV (Ancud) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186520
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Girovisual (W)(720)" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Girovisual (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186523
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Holvoet TV (Copiapó) (W)(720)" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="CHILE [GEO BLOQUEO]",CHI-Holvoet TV (Copiapó) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186524
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-La Popular TV (W)(720)" tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="CHILE [GEO BLOQUEO]",CHI-La Popular TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186527
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-La Red (W)(720)" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="CHILE [GEO BLOQUEO]",CHI-La Red (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186528
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Latina Network TV (W)(720)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg" group-title="CHILE [GEO BLOQUEO]",CHI-Latina Network TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186529
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-MTNA TV (W)(720)" tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="CHILE [GEO BLOQUEO]",CHI-MTNA TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186530
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-NCTV (W)(1080)" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="CHILE [GEO BLOQUEO]",CHI-NCTV (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186532
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Nublevision (W)(720)" tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="CHILE [GEO BLOQUEO]",CHI-Nublevision (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186535
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Pichilemu TV (W)(1080)" tvg-logo="https://i.imgur.com/eaJVCwM.png" group-title="CHILE [GEO BLOQUEO]",CHI-Pichilemu TV (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186536
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Pucón TV (W)(1080)" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="CHILE [GEO BLOQUEO]",CHI-Pucón TV (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186537
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Puranoticia TV (W)(720)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="CHILE [GEO BLOQUEO]",CHI-Puranoticia TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186538
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Radio Ritmo (W)(1080)" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="CHILE [GEO BLOQUEO]",CHI-Radio Ritmo (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186539
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Santa María Televisión (W)(720)" tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="CHILE [GEO BLOQUEO]",CHI-Santa María Televisión (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186540
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-SoloBáilalo (W)(SD)" tvg-logo="https://i.imgur.com/SImJE7c.png" group-title="CHILE [GEO BLOQUEO]",CHI-SoloBáilalo (W)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186541
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-T-Vinet (W)(SD)" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="CHILE [GEO BLOQUEO]",CHI-T-Vinet (W)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186544
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186547
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Tevex (W)(720)" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="CHILE [GEO BLOQUEO]",CHI-Tevex (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186549
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Thema Televisión (La Serena) (W)(720)" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE [GEO BLOQUEO]",CHI-Thema Televisión (La Serena) (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186550
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TNE (W)(720)" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="CHILE [GEO BLOQUEO]",CHI-TNE (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186551
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Turf Movil (W)(720)" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="CHILE [GEO BLOQUEO]",CHI-Turf Movil (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186552
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TV Quellón (W)(1080)" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV Quellón (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186554
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TV Senado (W)(SD)" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV Senado (W)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186555
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TV UCT (W)(1080)" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV UCT (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186556
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVN3 (W)(1080) [Geo-blocked]" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVN3 (W)(1080) [Geo-blocked]
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186557
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVO San Vicente (W)(720)" tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVO San Vicente (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186558
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVR (W)(1080)" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVR (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186559
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVU Concepción (W)(1080)" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVU Concepción (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186560
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-U Los Lagos TV (W)(1080)" tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="CHILE [GEO BLOQUEO]",CHI-U Los Lagos TV (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186561
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-UCV TV (W)(720)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="CHILE [GEO BLOQUEO]",CHI-UCV TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186562
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Universidad Autónoma Temuco (UATV) (W)(1080)" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="CHILE [GEO BLOQUEO]",CHI-Universidad Autónoma Temuco (UATV) (W)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186564
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-UTV (W)(720)" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="CHILE [GEO BLOQUEO]",CHI-UTV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186565
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-V Classic TV (W)(720)" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="CHILE [GEO BLOQUEO]",CHI-V Classic TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186566
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-VC Online (W)(720)" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="CHILE [GEO BLOQUEO]",CHI-VC Online (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186567
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Vision Plus TV (W)(720)" tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="CHILE [GEO BLOQUEO]",CHI-Vision Plus TV (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186568
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI-VTV Valle de Aconcagua (W)(720)" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="CHILE [GEO BLOQUEO]",CHI-VTV Valle de Aconcagua (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186569
+
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - 24 hs (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184317
+
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 1 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 1 (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184318
+
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 2 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 2 (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184319
+
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 3 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 3 (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184320
+
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Experiencia Multicámara (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Experiencia Multicámara (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184321
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Baños (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Baños (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179555
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Cocina (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Cocina (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179556
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Conexión Total 24/7 (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ede6942ecbaf66897c9a/6945659d59fe4992c285964a2e5cf570?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Conexión Total 24/7 (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179551
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Habitación Corazón (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Habitación Corazón (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179553
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Habitación Trébol (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Habitación Trébol (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179554
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Multicámaras (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Multicámaras (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179558
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Sala (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Sala (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179557
+
+#EXTINF:-1 tvg-id="" tvg-name="Apostarias por mi - Villa en vivo (L)(1080)" tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="24/7 REALITY LIVE",Apostarias por mi - Villa en vivo (L)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179552
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W)(720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO-LOCAL",MEX-ADN 40 (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164589
@@ -3119,6 +3332,48 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174445
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 Colombia -" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="COLOMBIA",PPV 2 Colombia -
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174446
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Banos (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Banos (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166116
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Baños (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Baños (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179550
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Beaty (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Beaty (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166115
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Beauty (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Beauty (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179549
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Calma (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Calma (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179547
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Comedor (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Comedor (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179546
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Comedor (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Comedor (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166112
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Main (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Main (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166110
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Principal (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Principal (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179544
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Sala (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Sala (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179545
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Sala (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Sala (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166111
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Team Calma (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Team Calma (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166113
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Team Tormenta (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Team Tormenta (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166114
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Tormenta (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Tormenta (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179548
 
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (L)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8510
@@ -3879,6 +4134,21 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8543
 #EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8540
 
+#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Sports 1 UY (L)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184009
+
+#EXTINF:-1 tvg-id="" tvg-name="URU-FixTV (L)(720)" tvg-logo="" group-title="URUGUAY",URU-FixTV (L)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184010
+
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Futbol (TV)(720)" tvg-logo="" group-title="URUGUAY",URU-VTV Futbol (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184011
+
+#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Premium UY (TV)(SD)" tvg-logo="" group-title="URUGUAY",URU-Directv Premium UY (TV)(SD)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184012
+
+#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Premium UY (TV)(720)" tvg-logo="" group-title="URUGUAY",URU-Directv Premium UY (TV)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184013
+
 #EXTINF:-1 tvg-id="" tvg-name="VEN-BTA TV (W)(720)" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="VENEZUELA",VEN-BTA TV (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160484
 
@@ -4157,48 +4427,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10259
 
 #EXTINF:-1 tvg-id="" tvg-name="HON-VTV (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-VTV (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10265
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Banos (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Banos (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166116
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Baños (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Baños (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179550
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Beaty (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Beaty (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166115
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Beauty (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Beauty (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179549
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Calma (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Calma (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179547
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Comedor (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Comedor (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179546
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Comedor (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Comedor (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166112
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Main (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Main (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166110
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Principal (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Principal (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179544
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Sala (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Sala (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179545
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Sala (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Sala (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166111
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Team Calma (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Team Calma (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166113
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Team Tormenta (TV)(720)" tvg-logo="https://i.ibb.co/M5WyT6SR/fas.jpg" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Team Tormenta (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166114
-
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos Colombia - Tormenta (L)(720)" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos Colombia - Tormenta (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179548
 
 #EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion1 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="SALVADOR",Liga ESV opcion1 (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173677
@@ -4485,11 +4713,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9318
 #EXTINF:-1 tvg-id="" tvg-name="SAL-VTV Canal 35 (M)" tvg-logo="" group-title="SALVADOR",SAL-VTV Canal 35 (M)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9319
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletrak (W)(720)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CHILE",Teletrak (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/145832
-
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HONDURAS PRUBAZ" tvg-logo="" group-title="HONDURAS",TIGO SPORTS HONDURAS PRUBAZ
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156990
+
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak (W)(720)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CHILE",Teletrak (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/145832
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (L)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156148
@@ -4532,6 +4760,15 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156172
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Sport 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Sport 1 (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156173
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Deportes (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Deportes (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162022
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Fórmula 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Fórmula 1 (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162020
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Liga de Campeones (M)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162019
 
 #EXTINF:-1 tvg-id="" tvg-name="ES DAZN 1 F(M)(720)" tvg-logo="" group-title="ESPAÑA",ES DAZN 1 F(M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922
@@ -6534,18 +6771,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45875
 #EXTINF:-1 tvg-id="" tvg-name="Canada: LCN (FR)" tvg-logo="" group-title="CANADA-FRANCES",Canada: LCN (FR)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/170357
 
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Deportes (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Deportes (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162022
-
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Fórmula 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Fórmula 1 (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162020
-
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="ESPAÑA",[PRIVATE] ES:Movistar Liga de Campeones (M)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162019
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://hipodromo.cl/generales_imagenes/logos/logo_hch-230x50px.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180037
-
 #EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV + (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV + (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180833
 
@@ -6573,65 +6798,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180840
 #EXTINF:-1 tvg-id="" tvg-name="POR-Sport TV 6 (M)(720)" tvg-logo="" group-title="BRASIL",POR-Sport TV 6 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180841
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Por ella soy Eva (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Por ella soy Eva (2012)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184008
-
-#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Sports 1 UY (L)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184009
-
-#EXTINF:-1 tvg-id="" tvg-name="URU-FixTV (L)(720)" tvg-logo="" group-title="URUGUAY",URU-FixTV (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184010
-
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Futbol (TV)(720)" tvg-logo="" group-title="URUGUAY",URU-VTV Futbol (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184011
-
-#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Premium UY (TV)(SD)" tvg-logo="" group-title="URUGUAY",URU-Directv Premium UY (TV)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184012
-
-#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Premium UY (TV)(720)" tvg-logo="" group-title="URUGUAY",URU-Directv Premium UY (TV)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184013
-
-#EXTINF:-1 tvg-id="" tvg-name="Greenland: 2 Migration (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="VOD-ESTRENOS 2026",Greenland: 2 Migration (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180290.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="VOD-ESTRENOS 2026",Sin piedad (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180291.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en vacaciones (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="VOD-ESTRENOS 2026",Gente que conocemos en vacaciones (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Teresa (2010)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Teresa (2010)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184018
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tierra de Esperanza (2023)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Tierra de Esperanza (2023)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184028
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tres milagros (2018)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Tres milagros (2018)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184029
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rebelde (2004)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Rebelde (2004)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184031
-
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - 24 hs (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184317
-
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 1 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 1 (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184318
-
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 2 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 2 (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184319
-
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Cámara 3 (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Cámara 3 (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184320
-
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - Experiencia Multicámara (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="24/7 REALITY LIVE",Reality-Gran Hermano - Experiencia Multicámara (L)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184321
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - encoder New (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - encoder New (e)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185769
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(720)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185770
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://hipodromo.cl/generales_imagenes/logos/logo_hch-230x50px.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180037
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Mar-10-2026 6:00PM | Memphis Grizzlies at Philadelphia 76ers" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Mar-10-2026 6:00PM | Memphis Grizzlies at Philadelphia 76ers
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186225
@@ -6975,182 +7143,14 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186476
 #EXTINF:-1 tvg-id="" tvg-name="03/10 World Baseball 06:00am Czech Republic vs Japan (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/960px-WBC_logo.svg.png?_=20250724125512" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",03/10 World Baseball 06:00am Czech Republic vs Japan (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186477
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(SD)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186478
+#EXTINF:-1 tvg-id="" tvg-name="Greenland: 2 Migration (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="VOD-ESTRENOS 2026",Greenland: 2 Migration (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180290.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13C (W)(1080)" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="CHILE [GEO BLOQUEO]",CHI-13C (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186492
+#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="VOD-ESTRENOS 2026",Sin piedad (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180291.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Entretención (W)(720)" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Entretención (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186493
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Festival (W)(1080)" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Festival (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186494
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Humor (W)(1080)" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Humor (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186495
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Kids (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186496
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Prime (W)(720)" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Prime (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186497
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Realities (W)(1080)" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Realities (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186498
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-13 Teleseries (W)(720)" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE [GEO BLOQUEO]",CHI-13 Teleseries (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186499
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Antofagasta TV (ATV) (W)(1080)" tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="CHILE [GEO BLOQUEO]",CHI-Antofagasta TV (ATV) (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186501
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Atacama Noticias (W)(720)" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Atacama Noticias (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186503
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Atacama TV (Copiapó) (W)(720)" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="CHILE [GEO BLOQUEO]",CHI-Atacama TV (Copiapó) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186504
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Aysen TV (W)(720)" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="CHILE [GEO BLOQUEO]",CHI-Aysen TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186505
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Campus TV (Talca) (W)(720)" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="CHILE [GEO BLOQUEO]",CHI-Campus TV (Talca) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186507
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 9 Bío Bío Televisión (W)(1080)" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="CHILE [GEO BLOQUEO]",CHI-Canal 9 Bío Bío Televisión (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186509
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (W)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="CHILE [GEO BLOQUEO]",CHI-Canal 13 (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186510
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal ISB (Iglesia San Bernardo) (W)(720)" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="CHILE [GEO BLOQUEO]",CHI-Canal ISB (Iglesia San Bernardo) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186512
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Chile Channel (W)(720)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="CHILE [GEO BLOQUEO]",CHI-Chile Channel (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186514
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-ChileVision (W)(1080)" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="CHILE [GEO BLOQUEO]",CHI-ChileVision (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186515
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Chiloe Red 25 (W)(720)" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="CHILE [GEO BLOQUEO]",CHI-Chiloe Red 25 (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186516
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Click TV (Coronel) (W)(720)" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="CHILE [GEO BLOQUEO]",CHI-Click TV (Coronel) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186517
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Contivision (W)(720)" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Contivision (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186518
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Dance FM (W)(720)" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="CHILE [GEO BLOQUEO]",CHI-Dance FM (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186519
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Décima TV (Ancud) (W)(720)" tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="CHILE [GEO BLOQUEO]",CHI-Décima TV (Ancud) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186520
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Girovisual (W)(720)" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="CHILE [GEO BLOQUEO]",CHI-Girovisual (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186523
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Holvoet TV (Copiapó) (W)(720)" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="CHILE [GEO BLOQUEO]",CHI-Holvoet TV (Copiapó) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186524
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-La Popular TV (W)(720)" tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="CHILE [GEO BLOQUEO]",CHI-La Popular TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186527
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-La Red (W)(720)" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="CHILE [GEO BLOQUEO]",CHI-La Red (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186528
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Latina Network TV (W)(720)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg" group-title="CHILE [GEO BLOQUEO]",CHI-Latina Network TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186529
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-MTNA TV (W)(720)" tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="CHILE [GEO BLOQUEO]",CHI-MTNA TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186530
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-NCTV (W)(1080)" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="CHILE [GEO BLOQUEO]",CHI-NCTV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186532
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Nublevision (W)(720)" tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="CHILE [GEO BLOQUEO]",CHI-Nublevision (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186535
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Pichilemu TV (W)(1080)" tvg-logo="https://i.imgur.com/eaJVCwM.png" group-title="CHILE [GEO BLOQUEO]",CHI-Pichilemu TV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186536
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Pucón TV (W)(1080)" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="CHILE [GEO BLOQUEO]",CHI-Pucón TV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186537
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Puranoticia TV (W)(720)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="CHILE [GEO BLOQUEO]",CHI-Puranoticia TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186538
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Radio Ritmo (W)(1080)" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="CHILE [GEO BLOQUEO]",CHI-Radio Ritmo (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186539
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Santa María Televisión (W)(720)" tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="CHILE [GEO BLOQUEO]",CHI-Santa María Televisión (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186540
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-SoloBáilalo (W)(SD)" tvg-logo="https://i.imgur.com/SImJE7c.png" group-title="CHILE [GEO BLOQUEO]",CHI-SoloBáilalo (W)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186541
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-T-Vinet (W)(SD)" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="CHILE [GEO BLOQUEO]",CHI-T-Vinet (W)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186544
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186547
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Tevex (W)(720)" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="CHILE [GEO BLOQUEO]",CHI-Tevex (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186549
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Thema Televisión (La Serena) (W)(720)" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE [GEO BLOQUEO]",CHI-Thema Televisión (La Serena) (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186550
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TNE (W)(720)" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="CHILE [GEO BLOQUEO]",CHI-TNE (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186551
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Turf Movil (W)(720)" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="CHILE [GEO BLOQUEO]",CHI-Turf Movil (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186552
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TV Quellón (W)(1080)" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV Quellón (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186554
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TV Senado (W)(SD)" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV Senado (W)(SD)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186555
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TV UCT (W)(1080)" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="CHILE [GEO BLOQUEO]",CHI-TV UCT (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186556
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TVN3 (W)(1080) [Geo-blocked]" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVN3 (W)(1080) [Geo-blocked]
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186557
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TVO San Vicente (W)(720)" tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVO San Vicente (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186558
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TVR (W)(1080)" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVR (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186559
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-TVU Concepción (W)(1080)" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE [GEO BLOQUEO]",CHI-TVU Concepción (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186560
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-U Los Lagos TV (W)(1080)" tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="CHILE [GEO BLOQUEO]",CHI-U Los Lagos TV (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186561
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-UCV TV (W)(720)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="CHILE [GEO BLOQUEO]",CHI-UCV TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186562
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Universidad Autónoma Temuco (UATV) (W)(1080)" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="CHILE [GEO BLOQUEO]",CHI-Universidad Autónoma Temuco (UATV) (W)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186564
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-UTV (W)(720)" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="CHILE [GEO BLOQUEO]",CHI-UTV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186565
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-V Classic TV (W)(720)" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="CHILE [GEO BLOQUEO]",CHI-V Classic TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186566
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-VC Online (W)(720)" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="CHILE [GEO BLOQUEO]",CHI-VC Online (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186567
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-Vision Plus TV (W)(720)" tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="CHILE [GEO BLOQUEO]",CHI-Vision Plus TV (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186568
-
-#EXTINF:-1 tvg-id="" tvg-name="CHI-VTV Valle de Aconcagua (W)(720)" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="CHILE [GEO BLOQUEO]",CHI-VTV Valle de Aconcagua (W)(720)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/186569
+#EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en vacaciones (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="VOD-ESTRENOS 2026",Gente que conocemos en vacaciones (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
