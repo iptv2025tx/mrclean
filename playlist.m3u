@@ -1515,7 +1515,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181609
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Reina Soy Yo (2019)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La Reina Soy Yo (2019)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181610
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe (2008)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 La rosa de Guadalupe (2008)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe (2008)" tvg-logo="https://i.postimg.cc/TwPCQDmD/rosa-de-guadalupe.png" group-title="24/7 TELENOVELAS",24/7 La rosa de Guadalupe (2008)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/181926
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure (e)(720)" tvg-logo="https://i.postimg.cc/B6rpBsf8/247-Digimon-Adventure-(e)(720).png" group-title="24/7 ANIME",24/7 Digimon Adventure (e)(720)
@@ -7361,6 +7361,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189020
 
 #EXTINF:-1 tvg-id="" tvg-name="EC | 05 • LIGA PR0 (Z)" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 05 • LIGA PR0 (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189021
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - New Encoder 2 (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 2 - New Encoder 2 (e)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189022
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
