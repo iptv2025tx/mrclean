@@ -3,13 +3,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="HON-TVC Deportes (Z)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 2 - (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Eventos 1 (e)(1080) " tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 1 - Eventos 1 (e)(1080)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189004
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - Eventos 2 (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 2 - Eventos 2 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 3 - (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - Eventos 3 (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 3 - Eventos 3 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4 -  (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 4 -  (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 - Eventos 4 (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 4 - Eventos 4 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178777
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 - encoder New (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - encoder New (e)(1080)
@@ -6798,15 +6801,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180841
 #EXTINF:-1 tvg-id="" tvg-name="CHI-Teletrak (W)(720)" tvg-logo="https://hipodromo.cl/generales_imagenes/logos/logo_hch-230x50px.png" group-title="CHILE [GEO BLOQUEO]",CHI-Teletrak (W)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180037
 
-#EXTINF:-1 tvg-id="" tvg-name="Greenland: 2 Migration (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="VOD-ESTRENOS 2026",Greenland: 2 Migration (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180290.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="VOD-ESTRENOS 2026",Sin piedad (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180291.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en vacaciones (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="VOD-ESTRENOS 2026",Gente que conocemos en vacaciones (2026)
-http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐ LCDLF COLOMBIA ⭐⭐ (Z)" tvg-logo="https://imagenes.noticiasrcn.com/cms/2025/12/29072232/participante-la-casa-de-los-famosos-colombia-2026.webp" group-title="24/7 REALITY LIVE",⭐⭐ LCDLF COLOMBIA ⭐⭐ (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187980
 
@@ -7298,6 +7292,75 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188997
 
 #EXTINF:-1 tvg-id="" tvg-name="BOX | 18:00 Ring Royale Trejo vs Adame" tvg-logo="https://siguenzacomunica.com/wp-content/uploads/2026/02/Adame-vs-Trejo-.png" group-title="EVENTOS PPV",BOX | 18:00 Ring Royale Trejo vs Adame
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188998
+
+#EXTINF:-1 tvg-id="" tvg-name="Vive Latino 2026 Canal 1" tvg-logo="https://festivalero.com.mx/wp-content/uploads/2026/01/560085099_1390618782619856_6374675990505323109_n-1024x1024.jpg" group-title="EVENTOS PPV",Vive Latino 2026 Canal 1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189001
+
+#EXTINF:-1 tvg-id="" tvg-name="Vive latino 2026 Canal 2" tvg-logo="https://festivalero.com.mx/wp-content/uploads/2026/01/560085099_1390618782619856_6374675990505323109_n-1024x1024.jpg" group-title="EVENTOS PPV",Vive latino 2026 Canal 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189002
+
+#EXTINF:-1 tvg-id="" tvg-name="Vive latino 2026 Canal 3" tvg-logo="https://festivalero.com.mx/wp-content/uploads/2026/01/560085099_1390618782619856_6374675990505323109_n-1024x1024.jpg" group-title="EVENTOS PPV",Vive latino 2026 Canal 3
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189003
+
+#EXTINF:-1 tvg-id="" tvg-name="Greenland: 2 Migration (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="VOD-ESTRENOS 2026",Greenland: 2 Migration (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180290.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="VOD-ESTRENOS 2026",Sin piedad (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180291.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en vacaciones (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="VOD-ESTRENOS 2026",Gente que conocemos en vacaciones (2026)
+http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA • 02 | 10:15 Barcelona vs Sevilla • 15-03 (Z)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYqFebcke2I7SqOYHkmYwcblShBk9DsU4v68zR6kBrw&s=10" group-title="EVENTOS PPV",LA LIGA • 02 | 10:15 Barcelona vs Sevilla • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189005
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA • 03 | 10:15 Barcelona vs Sevilla • 15-03 (Z)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYqFebcke2I7SqOYHkmYwcblShBk9DsU4v68zR6kBrw&s=10" group-title="EVENTOS PPV",LA LIGA • 03 | 10:15 Barcelona vs Sevilla • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189006
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA • 04 | 12:30 Real Betis vs Celta de Vigo • 15-03 (Z)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYqFebcke2I7SqOYHkmYwcblShBk9DsU4v68zR6kBrw&s=10" group-title="EVENTOS PPV",LA LIGA • 04 | 12:30 Real Betis vs Celta de Vigo • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189007
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA • 05 | 15:00 Real Sociedad vs Osasuna • 15-03 (Z)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYqFebcke2I7SqOYHkmYwcblShBk9DsU4v68zR6kBrw&s=10" group-title="EVENTOS PPV",LA LIGA • 05 | 15:00 Real Sociedad vs Osasuna • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189008
+
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA • 01 | 09:30 Werder Bremen vs Mainz 05 • 15-03 (Z)" tvg-logo="https://www.shutterstock.com/image-vector/red-square-shape-on-white-600nw-2174668771.jpg" group-title="EVENTOS PPV",BUNDESLIGA • 01 | 09:30 Werder Bremen vs Mainz 05 • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189009
+
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA • 02 | 11:30 Friburgo vs Unión Berlin • 15-03 (Z)" tvg-logo="https://www.shutterstock.com/image-vector/red-square-shape-on-white-600nw-2174668771.jpg" group-title="EVENTOS PPV",BUNDESLIGA • 02 | 11:30 Friburgo vs Unión Berlin • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189010
+
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA • 03 | 13:30 Stuttgart vs RB Leipzig • 15-03 (Z)" tvg-logo="https://www.shutterstock.com/image-vector/red-square-shape-on-white-600nw-2174668771.jpg" group-title="EVENTOS PPV",BUNDESLIGA • 03 | 13:30 Stuttgart vs RB Leipzig • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189011
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A • 01 | 06:30 Hellas Verona vs Genoa • 15-03 (Z)" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="EVENTOS PPV",SERIE A • 01 | 06:30 Hellas Verona vs Genoa • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189012
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A • 02 | 09:00 Pisa vs Cagliari • 15-03 (Z)" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="EVENTOS PPV",SERIE A • 02 | 09:00 Pisa vs Cagliari • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189013
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A • 03 | 09:00 Sassuolo vs Bolonia • 15-03 (Z)" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="EVENTOS PPV",SERIE A • 03 | 09:00 Sassuolo vs Bolonia • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189014
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE 1 • 01 | 09:00 Racing de Estrasburgo vs Paris FC • 15-03 (Z)" tvg-logo="https://content.sportslogos.net/news/2024/03/featured-905-23.jpg" group-title="EVENTOS PPV",LIGUE 1 • 01 | 09:00 Racing de Estrasburgo vs Paris FC • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189015
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE 2 • 01 | 11:15 Metz vs Toulouse • 15-03 (Z)" tvg-logo="https://content.sportslogos.net/news/2024/03/featured-905-23.jpg" group-title="EVENTOS PPV",LIGUE 2 • 01 | 11:15 Metz vs Toulouse • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189016
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE 1 • 03 | 11:15 Le havre vs Lyon • 15-03 (Z)" tvg-logo="https://content.sportslogos.net/news/2024/03/featured-905-23.jpg" group-title="EVENTOS PPV",LIGUE 1 • 03 | 11:15 Le havre vs Lyon • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189017
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE 1 • 04 | 14:45 Rennes vs LOSC • 15-03 (Z)" tvg-logo="https://content.sportslogos.net/news/2024/03/featured-905-23.jpg" group-title="EVENTOS PPV",LIGUE 1 • 04 | 14:45 Rennes vs LOSC • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189018
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A • 05 | 14:45 Lazio vs Milan • 15-03 (Z)" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="EVENTOS PPV",SERIE A • 05 | 14:45 Lazio vs Milan • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189019
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A • 04 | 12:00 Sassuolo vs Bolonia • 15-03 (Z)" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="EVENTOS PPV",SERIE A • 04 | 12:00 Sassuolo vs Bolonia • 15-03 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189020
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | 05 • LIGA PR0 (Z)" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="EVENTOS PPV",EC | 05 • LIGA PR0 (Z)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189021
 
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)" tvg-logo="" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
